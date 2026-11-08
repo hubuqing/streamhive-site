@@ -236,7 +236,9 @@
     "send": "Anfrage senden",
     "sending": "Wird gesendet…",
     "success": "Danke! Wir melden uns innerhalb eines Werktags, um Ihre Demo zu terminieren.",
-    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt."
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt.",
+    "messageHint": "Mindestens 10 Zeichen",
+    "errorValidation": "Bitte prüfen Sie Ihre Eingaben: Die Nachricht benötigt mindestens 10 Zeichen, die E-Mail-Adresse muss gültig sein."
   },
   "cta": {
     "title": "Bereit, Ihre Gästezimmer aufzurüsten?",

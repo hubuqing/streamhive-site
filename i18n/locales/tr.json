@@ -236,7 +236,9 @@
     "send": "Talebi gönder",
     "sending": "Gönderiliyor…",
     "success": "Teşekkürler! Demonuzu planlamak için bir iş günü içinde size döneceğiz.",
-    "error": "Bir sorun oluştu. Lütfen tekrar deneyin veya bize doğrudan e-posta gönderin."
+    "error": "Bir sorun oluştu. Lütfen tekrar deneyin veya bize doğrudan e-posta gönderin.",
+    "messageHint": "En az 10 karakter",
+    "errorValidation": "Lütfen girişlerinizi kontrol edin: Mesaj en az 10 karakter olmalı, e-posta geçerli olmalıdır."
   },
   "cta": {
     "title": "Odalarınızı yükseltmeye hazır mısınız?",

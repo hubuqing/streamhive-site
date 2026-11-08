@@ -15,9 +15,9 @@ const stats = [
 ]
 
 const gains = [
-  { key: 'upsell', icon: 'upsell' },
-  { key: 'satisfaction', icon: 'welcome' },
-  { key: 'staff', icon: 'cloud' }
+  { key: 'upsell', image: 'gain-upsell', alt: 'upsell' },
+  { key: 'satisfaction', image: 'gain-casting', alt: 'satisfaction' },
+  { key: 'staff', image: 'gain-staff', alt: 'staff' }
 ]
 
 const integrations = ['opera', 'mews', 'cloudbeds', 'samsung', 'lg', 'philips', 'stripe', 'salto']
@@ -49,6 +49,19 @@ const faqs = ['q1', 'q2', 'q3', 'q4']
             <div class="stat-value">{{ s.value }}</div>
             <div class="stat-label">{{ s.label.value }}</div>
           </div>
+        </div>
+      </div>
+
+      <div class="hero-visual">
+        <div class="media-frame">
+          <img
+            src="/images/hero-platform.webp"
+            :alt="t('media.alt.hero')"
+            width="2048"
+            height="1152"
+            fetchpriority="high"
+            decoding="async"
+          >
         </div>
       </div>
     </section>

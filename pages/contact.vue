@@ -16,19 +16,24 @@ const form = reactive({
 const submitted = ref(false)
 const sending = ref(false)
 const failed = ref(false)
+const failCode = ref(0)
 
 const submit = async () => {
   if (sending.value) return
   sending.value = true
   failed.value = false
+  failCode.value = 0
   try {
     await $fetch('/api/contact', {
       method: 'POST',
       body: { ...form, locale: locale.value }
     })
     submitted.value = true
-  } catch {
+  } catch (e) {
     failed.value = true
+    const err = e as { status?: number }
+    failCode.value = err.status || 0
+    console.error('contact submit failed:', e)
   } finally {
     sending.value = false
   }
@@ -104,7 +109,7 @@ const submit = async () => {
               </div>
               <div class="form-group">
                 <label for="message">{{ t('contact.message') }}</label>
-                <textarea id="message" v-model="form.message" required />
+                <textarea id="message" v-model="form.message" required minlength="10" :placeholder="t('contact.messageHint')" />
               </div>
               <input
                 v-model="form.website"
@@ -115,7 +120,10 @@ const submit = async () => {
                 aria-hidden="true"
                 class="hp-field"
               >
-              <div v-if="failed" class="form-error">{{ t('contact.error') }}</div>
+              <div v-if="failed" class="form-error">
+                {{ failCode === 422 ? t('contact.errorValidation') : t('contact.error') }}
+                <small v-if="failCode && failCode !== 422" style="display:block;opacity:.7">HTTP {{ failCode }}</small>
+              </div>
               <button type="submit" class="btn btn-primary btn-lg" style="width: 100%" :disabled="sending">
                 {{ sending ? t('contact.sending') : t('contact.send') }}
               </button>
