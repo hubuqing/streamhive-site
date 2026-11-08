@@ -32,6 +32,7 @@ export const usePageSeo = (page: string, title: string) => {
     title,
     description,
     keywords,
+    robots: 'index, follow, max-image-preview:large, max-snippet:-1',
     ogTitle: title,
     ogDescription: description,
     ogType: 'website',
