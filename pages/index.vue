@@ -57,8 +57,8 @@ const faqs = ['q1', 'q2', 'q3', 'q4']
           <img
             src="/images/hero-platform.webp"
             :alt="t('media.alt.hero')"
-            width="2048"
-            height="1152"
+            width="1726"
+            height="974"
             fetchpriority="high"
             decoding="async"
           >
