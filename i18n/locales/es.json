@@ -238,7 +238,9 @@
     "success": "¡Gracias! Nos pondremos en contacto en un día laborable para programar su demo.",
     "error": "Algo salió mal. Inténtelo de nuevo o escríbanos directamente.",
     "messageHint": "Al menos 10 caracteres",
-    "errorValidation": "Revise sus datos: el mensaje necesita al menos 10 caracteres y el correo debe ser válido."
+    "errorValidation": "Revise sus datos: el mensaje necesita al menos 10 caracteres y el correo debe ser válido.",
+    "whatsapp": "WhatsApp",
+    "addressValue": "Quanzhou, Fujian, China"
   },
   "cta": {
     "title": "¿Listo para mejorar sus habitaciones?",

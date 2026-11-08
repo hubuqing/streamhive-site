@@ -238,7 +238,9 @@
     "success": "感谢！我们将在一个工作日内回复，与您约定演示时间。",
     "error": "发送失败，请重试或直接发邮件联系我们。",
     "messageHint": "至少输入 10 个字符",
-    "errorValidation": "请检查填写内容：留言至少 10 个字符，邮箱格式需正确。"
+    "errorValidation": "请检查填写内容：留言至少 10 个字符，邮箱格式需正确。",
+    "whatsapp": "WhatsApp",
+    "addressValue": "中国 福建 泉州"
   },
   "cta": {
     "title": "准备好升级您的客房了吗？",

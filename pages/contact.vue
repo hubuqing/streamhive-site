@@ -67,21 +67,39 @@ const submit = async () => {
               <div class="card-icon"><AppIcon name="mail" /></div>
               <div>
                 <strong>{{ t('contact.email') }}</strong>
-                <p style="color: var(--text-2); font-size: 0.92rem">hello@castella.example.com</p>
+                <p style="color: var(--text-2); font-size: 0.92rem">
+                  <a href="mailto:hubuqing@huibu8.net" class="contact-link">hubuqing@huibu8.net</a>
+                </p>
               </div>
             </div>
             <div class="contact-item">
               <div class="card-icon"><AppIcon name="phone" /></div>
               <div>
                 <strong>{{ t('contact.phone') }}</strong>
-                <p style="color: var(--text-2); font-size: 0.92rem">+351 21 555 0190</p>
+                <p style="color: var(--text-2); font-size: 0.92rem">
+                  <a href="tel:+8618150600095" class="contact-link">+86 181 5060 0095</a>
+                </p>
+              </div>
+            </div>
+            <div class="contact-item">
+              <div class="card-icon"><AppIcon name="whatsapp" /></div>
+              <div>
+                <strong>{{ t('contact.whatsapp') }}</strong>
+                <p style="color: var(--text-2); font-size: 0.92rem">
+                  <a
+                    href="https://wa.me/8618150600095"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="contact-link"
+                  >+86 181 5060 0095</a>
+                </p>
               </div>
             </div>
             <div class="contact-item">
               <div class="card-icon"><AppIcon name="pin" /></div>
               <div>
                 <strong>{{ t('contact.hq') }}</strong>
-                <p style="color: var(--text-2); font-size: 0.92rem">Rua da Prata 88, Lisbon, Portugal</p>
+                <p style="color: var(--text-2); font-size: 0.92rem">{{ t('contact.addressValue') }}</p>
               </div>
             </div>
           </div>

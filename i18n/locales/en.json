@@ -238,7 +238,9 @@
     "success": "Thank you! We will get back to you within one business day to schedule your demo.",
     "error": "Something went wrong. Please try again or email us directly.",
     "messageHint": "At least 10 characters",
-    "errorValidation": "Please check your input: message needs at least 10 characters, and the email must be valid."
+    "errorValidation": "Please check your input: message needs at least 10 characters, and the email must be valid.",
+    "whatsapp": "WhatsApp",
+    "addressValue": "Quanzhou, Fujian, China"
   },
   "cta": {
     "title": "Ready to upgrade your guest rooms?",
