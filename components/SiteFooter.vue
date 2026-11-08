@@ -16,7 +16,7 @@ const year = new Date().getFullYear()
             <path d="M12 12.5l6 3.5-6 3.5v-7z" fill="var(--accent)" />
             <path d="M4 26h7M21 26h7" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" />
           </svg>
-          <span class="brand-name">Ca<b>stella</b></span>
+          <span class="brand-name">Su<b>min</b></span>
         </div>
         <p class="footer-tagline">{{ t('footer.tagline') }}</p>
       </div>
@@ -49,7 +49,7 @@ const year = new Date().getFullYear()
     </div>
 
     <div class="footer-bottom">
-      <span>© {{ year }} Castella Hospitality Technologies Ltd. {{ t('footer.rights') }}</span>
+      <span>© {{ year }} {{ t('footer.legalName') }} {{ t('footer.rights') }}</span>
       <div class="footer-legal">
         <NuxtLink :to="localePath('/terms-of-service')">{{ t('footer.terms') }}</NuxtLink>
         <NuxtLink :to="localePath('/cookie-policy')">{{ t('footer.cookies') }}</NuxtLink>

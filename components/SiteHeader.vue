@@ -20,13 +20,13 @@ const links = computed(() => [
 <template>
   <header class="site-header">
     <div class="header-inner">
-      <NuxtLink :to="localePath('/')" class="brand" aria-label="Castella home">
+      <NuxtLink :to="localePath('/')" class="brand" aria-label="Sumin home">
         <svg class="brand-logo" viewBox="0 0 32 32" fill="none" aria-hidden="true">
           <rect x="4" y="7" width="24" height="16" rx="3" stroke="var(--accent)" stroke-width="2" />
           <path d="M12 12.5l6 3.5-6 3.5v-7z" fill="var(--accent)" />
           <path d="M4 26h7M21 26h7" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" />
         </svg>
-        <span class="brand-name">Ca<b>stella</b></span>
+        <span class="brand-name">Su<b>min</b></span>
       </NuxtLink>
 
       <nav class="main-nav" aria-label="Main navigation">

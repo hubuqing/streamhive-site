@@ -20,35 +20,31 @@
     "backHome": "Ana sayfaya dön"
   },
   "hero": {
-    "badge": "Otel TV'sini yeniden tasarladık",
+    "badge": "Sumin — Oda TV Çözümleri",
     "title": "Her oda televizyonunu",
     "titleAccent": "beş yıldızlı bir deneyime dönüştürün",
-    "subtitle": "Castella, akıllı TV uygulamalarını, yayınlamayı, akış hizmetlerini, karşılama ekranlarını ve dijital yeme-içmeyi odalarınıza getirir — tek bir bulut platformundan yönetilir ve her konuğun dilinde konuşur.",
+    "subtitle": "Sumin, oda televizyonlarınıza akıllı TV uygulamaları, yayınlama, akış, karşılama ekranları ve dijital yeme-içme getirir — tek bir bulut platformundan yönetilir ve her konuğun dilinde konuşur.",
     "primary": "Demo Talep Et",
     "secondary": "Özellikleri Keşfet",
-    "statRooms": "Donatılmış oda",
-    "statCountries": "Ülke",
-    "statLanguages": "Arayüz dili",
-    "statRating": "Konuk memnuniyeti artışı"
+    "statLanguages": "Arayüz dilleri",
+    "statModules": "Özellik modülleri",
+    "statPlatforms": "Desteklenen TV platformları",
+    "statResponse": "Yanıt süresi"
   },
   "home": {
-    "trustTitle": "Detaylara önem veren otellerin tercihi",
     "featuresTitle": "Oda televizyonunuzun yapabildiği her şey",
     "featuresSubtitle": "Tek platform tüm yığını değiştirir: interaktif TV, yayınlama, konuk hizmetleri ve çapraz satış — konukların zaten kullandığı ekranda.",
     "solutionsTitle": "Her tür konaklama tesisi için",
-    "solutionsSubtitle": "Şehir butik otellerinden ada tatil köylerine, Castella konuklarınızın konaklama tarzına uyar.",
+    "solutionsSubtitle": "Şehir butik otellerinden ada tatil köylerine, Sumin konuklarınızın konaklama tarzına uyar.",
     "integrationsTitle": "Mevcut sistemlerinizle uyumlu çalışır",
     "integrationsSubtitle": "Otelinizin halihazırda kullandığı sistemlerle sertifikalı entegrasyonlar.",
     "gainsTitle": "Sadece güzel bir ekran değil",
-    "gainUpsellTitle": "+%38 yan gelir",
+    "gainUpsellTitle": "Yeni bir yan gelir kanalı",
     "gainUpsellText": "Konuklar oda servisini, spa rezervasyonlarını ve yükseltmeleri doğrudan TV'den sipariş eder — odanın en çok izlenen ekranı.",
-    "gainSatisfactionTitle": "+%27 konuk memnuniyeti",
+    "gainSatisfactionTitle": "Konukların gerçekten sevdiği bir TV",
     "gainSatisfactionText": "Kötü otel TV menülerine veda. Konukların nasıl kullanacağını zaten bildiği bir arayüz.",
-    "gainStaffTitle": "-%45 resepsiyon araması",
-    "gainStaffText": "Çıkış, faturalar ve sık sorular ekranda yanıtlanır; ekibiniz misafirperverliğe odaklanır.",
-    "testimonialQuote": "Castella, oda televizyonlarımızı şikâyet kaynağından en iyi çapraz satış kanalımıza dönüştürdü. Konuklar seviyor, resepsiyonum ise sonunda rahat bir nefes alıyor.",
-    "testimonialName": "Claire Dubois",
-    "testimonialRole": "Genel Müdür, Hôtel Lumière"
+    "gainStaffTitle": "Rahatlayan bir resepsiyon",
+    "gainStaffText": "Çıkış, faturalar ve sık sorular ekranda yanıtlanır; ekibiniz misafirperverliğe odaklanır."
   },
   "features": {
     "title": "Eksiksiz otel TV platformu",
@@ -125,7 +121,7 @@
       "resorts": {
         "title": "Tatil Köyleri",
         "short": "Ekran süresini havuz, spa ve etkinlik rezervasyonlarına dönüştürün.",
-        "long": "Tatil köyü konukları günlerini odalarından planlar. Castella etkinlikleri, spa menülerini ve restoran rezervasyonlarını TV'ye taşır — deneyimi satan etkileyici görsellerle.",
+        "long": "Tatil köyü konukları günlerini odalarından planlar. Sumin etkinlikleri, spa menülerini ve restoran rezervasyonlarını TV'ye taşır — deneyimi satan etkileyici görsellerle.",
         "bullets": [
           "Canlı müsaitlikle etkinlik ve gezi rezervasyonları",
           "Zengin görsellerle spa ve restoran menüleri",
@@ -136,7 +132,7 @@
       "boutique": {
         "title": "Butik & Tasarım Otelleri",
         "short": "İç mekânınız kadar özenli bir arayüz.",
-        "long": "Tasarım diliniz standart bir TV menüsünden fazlasını hak eder. Castella'nın arayüzü tamamen markanıza uyarlanabilir — tipografi, renkler, düzenler — odanın en görünür ekranı vizyonunuza uysun.",
+        "long": "Tasarım diliniz standart bir TV menüsünden fazlasını hak eder. Sumin'nın arayüzü tamamen markanıza uyarlanabilir — tipografi, renkler, düzenler — odanın en görünür ekranı vizyonunuza uysun.",
         "bullets": [
           "Tasarımınıza uyacak tamamen özelleştirilebilir arayüz",
           "Seçilmiş yerel rehberler ve şehir içerikleri",
@@ -170,21 +166,21 @@
   },
   "integrations": {
     "title": "Entegrasyonlar",
-    "subtitle": "Castella, halihazırda kullandığınız sistemlere bağlanır — sertifikalı, sürekli bakımlı ve destekli.",
+    "subtitle": "Sumin platformu, otelinizin halihazırda kullandığı sistemlere bağlanır; kapsamı proje bazında netleştirilir.",
     "pmsTitle": "Otel Yönetim Sistemleri (PMS)",
-    "pmsText": "Dünyanın önde gelen PMS platformlarıyla çift yönlü senkronizasyon: konuk profilleri, oda durumu, çıkış saatleri ve fatura işlemleri otomatik akar.",
+    "pmsText": "Yaygın PMS platformlarıyla bağlantı: konuk profilleri, oda durumu, çıkış saatleri ve fatura işlemleri otomatik akar.",
     "locksTitle": "Kapı Kilitleri & Erişim",
-    "locksText": "Check-in'de mobil anahtarlar ve PIN kodları üretilir — konuğun telefonuna gönderilir ve TV karşılama ekranında yansıtılır.",
+    "locksText": "Kapı kilidi entegrasyonunu destekler: check-in'de mobil anahtarlar ve PIN kodları üretilir, konuğun telefonuna gönderilir ve TV karşılama ekranında yansıtılır.",
     "paymentsTitle": "Ödemeler & Fatura",
-    "paymentsText": "Oda borçları, ayrı faturalar ve çapraz satışlar için doğrudan kart ödemeleri — PMS'nizle manuel giriş olmadan mutabık kılınır.",
+    "paymentsText": "Oda borçları, ayrı faturalar ve doğrudan kart ödemelerini destekler; PMS'nizle otomatik mutabık kılınır.",
     "hardwareTitle": "TV'ler & Donanım",
-    "hardwareText": "Samsung, LG ve Philips Akıllı TV'ler için sertifikalı. Mevcut headend sisteminizle veya bulut TV kaynağımızla çalışır.",
+    "hardwareText": "Samsung, LG ve Philips Akıllı TV'lerde çalışır; mevcut headend sisteminizle veya bulut TV kaynağıyla uyumludur.",
     "ecosystem": "Ayrıca yeme-içme, spa, geri bildirim ve sadakat sistemlerini kapsayan 60+ entegrasyon."
   },
   "faq": {
     "title": "Sıkça sorulan sorular",
     "q1": "Yeni TV'ler satın almamız gerekir mi?",
-    "a1": "Büyük olasılıkla hayır. Castella son yılların Samsung, LG ve Philips Akıllı TV'lerinde doğal olarak çalışır. Daha eski ekranlar için oda başına küçük bir medya oynatıcı uygun fiyatlı bir köprüdür.",
+    "a1": "Büyük olasılıkla hayır. Sumin son yılların Samsung, LG ve Philips Akıllı TV'lerinde doğal olarak çalışır. Daha eski ekranlar için oda başına küçük bir medya oynatıcı uygun fiyatlı bir köprüdür.",
     "q2": "Kurulum ne kadar sürer?",
     "a2": "Tek bir tesis genellikle bir gün içinde yayına girer. Grup genelinde dağıtımlar tesis başına bir ila iki hafta sürer; ekiplerimiz sizinkilerle birlikte yürütür.",
     "q3": "Yayınlama konuk gizliliğini nasıl korur?",
@@ -193,10 +189,10 @@
     "a4": "Tamamen. Kanallar, menüler, karşılama ekranları ve arayüzün kendisi markanızı taşır. Talep üzerine içerik ekibimiz materyalleri sizin için üretip güncelleyebilir."
   },
   "about": {
-    "title": "Odanın en çok görülen ekranı, sonunda hak ettiği ilgi",
-    "subtitle": "Konaklamanın en ihmal edilen temas noktasını onarma misyonundaki bir otel teknolojileri ekibiyiz.",
-    "storyTitle": "Hikâyemiz",
-    "story": "Castella, 2021'de Lizbon'daki bir otelde doğdu: iki mühendis, bir konuğun TV menüsüyle on dakika mücadele edip vazgeçişini izledi. Oteller lobilerde ve yatak takımlarında milyonlar döker — sonra odanın en büyük ekranını son on yılda bırakır. Bunu oda oda değiştirmeye karar verdik. Bugün Castella 34 ülkede tesislere hizmet veriyor.",
+    "title": "Oda TV'si, deneyime geri dönsün",
+    "subtitle": "Quanzhou Sumin Electronics Technology Co., Ltd. — oda TV ve IPTV çözümlerine odaklanmış.",
+    "storyTitle": "Sumin hakkında",
+    "story": "Quanzhou Sumin Electronics Technology Co., Ltd., Çin'in Fujian eyaletindeki Quanzhou'da faaliyet gösteren, oda TV ve IPTV çözümlerine odaklanan bir elektronik teknolojisi şirketidir. Akıllı TV uygulamalarını, yayınlamayı, akışı ve konuk hizmetlerini tek bir platformda birleştiririz — oteller, mevcut televizyonlarında deneyimi yükseltir; ekran değişimi de yeni kablolama da gerekmez.",
     "valuesTitle": "İnandığımız şeyler",
     "values": {
       "guests": {
@@ -214,7 +210,7 @@
     }
   },
   "contact": {
-    "title": "Castella'yı odalarınızda görün",
+    "title": "Sumin'yı odalarınızda görün",
     "subtitle": "Tesisinizi merkeze alan 30 dakikalık bir demo — taahhüt yok, sunum yok, sadece ürün.",
     "infoTitle": "İletişim bilgileri",
     "email": "E-posta gönderin",
@@ -244,18 +240,19 @@
   },
   "cta": {
     "title": "Odalarınızı yükseltmeye hazır mısınız?",
-    "text": "Castella'yı halihazırda kullanan 34 ülkedeki otellere katılın. Demo 30 dakika sürer — konuklarınız farkı yıllarca hisseder.",
+    "text": "30 dakikalık demoda, Sumin'in mevcut oda televizyonlarınızı akıllı bir konuk platformuna nasıl dönüştürdüğünü görün — taahhüt yok, sadece ürün.",
     "contact": "Demo Talep Et",
     "explore": "Özellikleri Keşfet"
   },
   "footer": {
-    "tagline": "Oda ekranlarını konuk deneyimlerine dönüştüren otel TV platformu.",
+    "tagline": "Sumin Electronics'in oda televizyonu platformu.",
     "product": "Ürün",
     "company": "Şirket",
     "language": "Dil",
     "terms": "Hizmet Şartları",
     "cookies": "Çerez Politikası",
-    "rights": "Tüm hakları saklıdır."
+    "rights": "Tüm hakları saklıdır.",
+    "legalName": "Quanzhou Sumin Electronics Technology Co., Ltd."
   },
   "terms": {
     "title": "Hizmet Şartları",
@@ -263,11 +260,11 @@
     "sections": {
       "intro": {
         "h": "1. Şartların kabulü",
-        "p": "Castella platformuna erişerek veya kullanarak bu Hizmet Şartları ve tüm geçerli yasalara bağlı kalmayı kabul etmiş olursunuz. Herhangi bir bölümü onaylamıyorsanız hizmeti kullanmayın."
+        "p": "Sumin platformuna erişerek veya kullanarak bu Hizmet Şartları ve tüm geçerli yasalara bağlı kalmayı kabul etmiş olursunuz. Herhangi bir bölümü onaylamıyorsanız hizmeti kullanmayın."
       },
       "service": {
         "h": "2. Hizmetin tanımı",
-        "p": "Castella, tesis başına anlaşmalarla sunulan, konuk uygulamaları ve yönetim araçları içeren bulut tabanlı bir otel TV platformu sağlar. Özellikler, üzerinde anlaşılan kapsama bağlıdır."
+        "p": "Sumin, tesis başına anlaşmalarla sunulan, konuk uygulamaları ve yönetim araçları içeren bulut tabanlı bir otel TV platformu sağlar. Özellikler, üzerinde anlaşılan kapsama bağlıdır."
       },
       "accounts": {
         "h": "3. Tesis sorumlulukları",
@@ -305,15 +302,15 @@
   },
   "media": {
     "alt": {
-      "hero": "Oda içinde Castella otel TV platformu karşılama ekranı",
+      "hero": "Oda içinde Sumin otel TV platformu karşılama ekranı",
       "upsell": "Oda TV'sindeki yemek menüsünün yanında oda servisi tepsisi, katlanmış havlular ve pirinç kapak",
       "satisfaction": "Konuğun oda TV'sine film yayınlaması",
       "staff": "Konuk taleplerini gösteren resepsiyon panosu",
-      "about": "Castella ekibi ve ürün hikâyesi",
+      "about": "Sumin ekibi ve ürün hikâyesi",
       "contact": "Otel koridorunda akrilik QR standı, telefon, pirinç servis zili ve oda anahtarı",
       "features": "Mermer konsol üzerinde TV, akrilik QR standı ve aynı misafir arayüzünü gösteren telefon",
-      "integrations": "Castella'nın PMS, kilitler, ödemeler ve TV entegrasyonları",
-      "solutions": "Her tür tesis için Castella çözümleri"
+      "integrations": "Sumin'nın PMS, kilitler, ödemeler ve TV entegrasyonları",
+      "solutions": "Her tür tesis için Sumin çözümleri"
     }
   },
   "seo": {
@@ -321,9 +318,9 @@
     "keywordsFeatures": "otel IPTV özellikleri, otel TV yayınlama, oda akış uygulamaları, dijital oda servisi, karşılama ekranı, otel çapraz satış, temassız QR yeme-içme otel, otel EPG, otel VOD",
     "keywordsSolutions": "oteller için IPTV çözümleri, otel zinciri TV platformu, tatil köyü TV sistemi, butik otel TV, apart otel TV, wellness otel TV",
     "keywordsIntegrations": "otel IPTV entegrasyonu, PMS entegrasyonu, Oracle Opera, Mews, Cloudbeds, otel kapı kilitleri, Salto, ödeme entegrasyonu, Samsung LYNK, LG Pro:Centric, Android TV otel",
-    "keywordsAbout": "Castella hakkında, otel IPTV sağlayıcısı, otelcilik teknolojisi şirketi",
-    "keywordsContact": "otel IPTV demo, otel TV demo talebi, otel TV teklifi, Castella iletişim",
-    "descHome": "Castella, oda televizyonlarını beş yıldızlı deneyimlere dönüştüren otel IPTV platformudur: yayınlama, akış, dijital yeme-içme ve çapraz satış - 12 konuk dilinde.",
+    "keywordsAbout": "Sumin hakkında, Quanzhou Sumin Electronics, otel IPTV sağlayıcısı, otelcilik teknolojisi şirketi",
+    "keywordsContact": "otel IPTV demo, otel TV demo talebi, otel TV teklifi, Sumin iletişim",
+    "descHome": "Sumin, Quanzhou Sumin Electronics'in otel IPTV platformudur: yayınlama, akış, karşılama ekranları ve dijital yeme-içme — çok dilli arayüzle.",
     "descFeatures": "Akıllı TV uygulamaları, yayınlama, akış, karşılama ekranları, dijital yeme-içme ve çapraz satış - Samsung, LG ve Philips üzerinde eksiksiz otel IPTV özellikleri.",
     "descSolutions": "Zincirler, bağımsız oteller, tatil köyleri, butik oteller, apartlar ve wellness otelleri için otel IPTV çözümleri."
   }

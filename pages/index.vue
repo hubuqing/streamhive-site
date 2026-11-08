@@ -8,10 +8,10 @@ const featureKeys = ['smarttv', 'casting', 'streaming', 'welcome', 'info', 'dini
 const solutionKeys = ['groups', 'independent', 'resorts', 'boutique', 'apartments', 'wellness']
 
 const stats = [
-  { value: '62K+', label: computed(() => t('hero.statRooms')) },
-  { value: '34', label: computed(() => t('hero.statCountries')) },
-  { value: '12', label: computed(() => t('hero.statLanguages')) },
-  { value: '+27%', label: computed(() => t('hero.statRating')) }
+  { value: '6', label: computed(() => t('hero.statLanguages')) },
+  { value: '10+', label: computed(() => t('hero.statModules')) },
+  { value: '4', label: computed(() => t('hero.statPlatforms')) },
+  { value: '24h', label: computed(() => t('hero.statResponse')) }
 ]
 
 const gains = [
@@ -66,21 +66,6 @@ const faqs = ['q1', 'q2', 'q3', 'q4']
       </div>
     </section>
 
-    <section class="section" style="padding: 48px 0">
-      <div class="container">
-        <div class="trust-wall">
-          <p class="trust-title">{{ t('home.trustTitle') }}</p>
-          <div class="trust-brands">
-            <span>Hôtel Lumière</span>
-            <span>Azure Bay Resorts</span>
-            <span>Nordic Stay</span>
-            <span>Casa Verde</span>
-            <span>The Harbour Line</span>
-            <span>Park &amp; Pine</span>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <section class="section">
       <div class="container">
@@ -163,17 +148,6 @@ const faqs = ['q1', 'q2', 'q3', 'q4']
       </div>
     </section>
 
-    <section class="section">
-      <div class="container" style="max-width: 780px">
-        <figure class="testimonial">
-          <blockquote>“{{ t('home.testimonialQuote') }}”</blockquote>
-          <figcaption>
-            <strong>{{ t('home.testimonialName') }}</strong>
-            <span>{{ t('home.testimonialRole') }}</span>
-          </figcaption>
-        </figure>
-      </div>
-    </section>
 
     <section class="section" style="padding-top: 0">
       <div class="container" style="max-width: 780px">

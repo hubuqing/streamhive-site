@@ -70,8 +70,8 @@ export default defineNitroPlugin((nitro) => {
         {
           '@type': 'Organization',
           '@id': `${base}/#organization`,
-          name: 'Castella',
-          alternateName: 'Castella Hospitality TV',
+          name: 'Quanzhou Sumin Electronics Technology Co., Ltd.',
+          alternateName: ['Sumin', '泉州市苏闽电子科技有限公司'],
           url: base,
           description: 'Hotel IPTV and hospitality TV platform: casting, streaming, welcome screens, contactless QR dining and digital concierge for guest rooms.',
           areaServed: 'Worldwide',
@@ -99,7 +99,7 @@ export default defineNitroPlugin((nitro) => {
           '@type': 'WebSite',
           '@id': `${base}/#website`,
           url: base,
-          name: 'Castella',
+          name: 'Sumin',
           inLanguage: ['en-US', 'de-DE', 'tr-TR', 'zh-CN', 'es-ES', 'ru-RU'],
           publisher: { '@id': `${base}/#organization` },
           speakable: { '@type': 'SpeakableSpecification', cssSelector: ['h1', '.hero-sub', '.faq-body'] }
@@ -107,7 +107,7 @@ export default defineNitroPlugin((nitro) => {
         {
           '@type': 'SoftwareApplication',
           '@id': `${base}/#software`,
-          name: 'Castella Hospitality TV Platform',
+          name: 'Sumin Hotel IPTV Platform',
           applicationCategory: 'BusinessApplication',
           operatingSystem: 'Samsung Tizen, LG webOS Pro:Centric, Philips, Android TV, iOS, Web',
           description: 'Hotel IPTV platform delivering guest welcome screens, casting, OTT streaming, QR room service and automated PMS folio billing.'

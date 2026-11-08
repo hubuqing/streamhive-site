@@ -38,7 +38,7 @@ export const usePageSeo = (page: string, title: string) => {
     ogType: 'website',
     ogUrl: canonical,
     ogImage,
-    ogSiteName: 'Castella',
+    ogSiteName: 'Sumin',
     ogLocale: langTag.replace('-', '_'),
     twitterCard: 'summary_large_image',
     twitterTitle: title,

@@ -20,35 +20,31 @@
     "backHome": "Volver al inicio"
   },
   "hero": {
-    "badge": "La TV de hotel, reinventada",
+    "badge": "Sumin — Soluciones de TV para habitaciones",
     "title": "Convierta el televisor de cada habitación",
     "titleAccent": "en una experiencia de cinco estrellas",
-    "subtitle": "Castella lleva a sus habitaciones apps de Smart TV, casting, streaming, pantallas de bienvenida y restauración digital — gestionado desde una única plataforma en la nube y hablando el idioma de cada huésped.",
+    "subtitle": "Sumin lleva a sus habitaciones apps de Smart TV, casting, streaming, pantallas de bienvenida y restauración digital — gestionado desde una única plataforma en la nube y hablando el idioma de cada huésped.",
     "primary": "Solicitar demo",
     "secondary": "Descubrir funciones",
-    "statRooms": "Habitaciones equipadas",
-    "statCountries": "Países",
     "statLanguages": "Idiomas de interfaz",
-    "statRating": "Aumento de satisfacción"
+    "statModules": "Módulos de funciones",
+    "statPlatforms": "Plataformas de TV compatibles",
+    "statResponse": "Tiempo de respuesta"
   },
   "home": {
-    "trustTitle": "La elección de hoteles que cuidan los detalles",
     "featuresTitle": "Todo lo que la TV de su habitación puede hacer",
     "featuresSubtitle": "Una plataforma sustituye a toda la pila: TV interactiva, casting, servicios al huésped y ventas adicionales — en la pantalla que los huéspedes ya usan.",
     "solutionsTitle": "Pensado para cada tipo de alojamiento",
-    "solutionsSubtitle": "Desde boutique urbanos hasta resorts isleños, Castella se adapta a cómo se hospedan sus huéspedes.",
+    "solutionsSubtitle": "Desde boutique urbanos hasta resorts isleños, Sumin se adapta a cómo se hospedan sus huéspedes.",
     "integrationsTitle": "Se integra con lo que ya tiene",
     "integrationsSubtitle": "Integraciones certificadas con los sistemas que su hotel ya utiliza.",
     "gainsTitle": "Más que una pantalla bonita",
-    "gainUpsellTitle": "+38% de ingresos auxiliares",
+    "gainUpsellTitle": "Un nuevo canal de ingresos auxiliares",
     "gainUpsellText": "Los huéspedes piden room service, reservas de spa y mejoras directamente desde la TV — la pantalla más vista de la habitación.",
-    "gainSatisfactionTitle": "+27% de satisfacción",
+    "gainSatisfactionTitle": "Una TV que los huéspedes disfrutan",
     "gainSatisfactionText": "Se acabaron los menús de TV torpes. Una interfaz que los huéspedes ya saben usar.",
-    "gainStaffTitle": "-45% de llamadas a recepción",
-    "gainStaffText": "Check-out, facturas y preguntas frecuentes resueltas en pantalla; su equipo se centra en la hospitalidad.",
-    "testimonialQuote": "Castella convirtió las televisiones de nuestras habitaciones de fuente de quejas en nuestro mejor canal de venta adicional. A los huéspedes les encanta y a mi recepción por fin le deja respirar.",
-    "testimonialName": "Claire Dubois",
-    "testimonialRole": "Directora General, Hôtel Lumière"
+    "gainStaffTitle": "Una recepción más ligera",
+    "gainStaffText": "Check-out, facturas y preguntas frecuentes resueltas en pantalla; su equipo se centra en la hospitalidad."
   },
   "features": {
     "title": "La plataforma completa de TV para hoteles",
@@ -125,7 +121,7 @@
       "resorts": {
         "title": "Resorts",
         "short": "Convierta el tiempo de pantalla en reservas de piscina, spa y actividades.",
-        "long": "Los huéspedes de resort planifican su día desde la habitación. Castella pone actividades, cartas de spa y reservas de restaurante en la TV — con imágenes que venden la experiencia.",
+        "long": "Los huéspedes de resort planifican su día desde la habitación. Sumin pone actividades, cartas de spa y reservas de restaurante en la TV — con imágenes que venden la experiencia.",
         "bullets": [
           "Reservas de actividades y excursiones con disponibilidad en vivo",
           "Cartas de spa y restaurante con imágenes de alta calidad",
@@ -136,7 +132,7 @@
       "boutique": {
         "title": "Hoteles boutique y de diseño",
         "short": "Una interfaz tan cuidada como su interiorismo.",
-        "long": "Su lenguaje de diseño merece más que un menú de TV por defecto. La interfaz de Castella es completamente personalizable — tipografía, colores, maquetas — para que la pantalla más visible de la habitación refleje su visión.",
+        "long": "Su lenguaje de diseño merece más que un menú de TV por defecto. La interfaz de Sumin es completamente personalizable — tipografía, colores, maquetas — para que la pantalla más visible de la habitación refleje su visión.",
         "bullets": [
           "Interfaz totalmente personalizable acorde a su diseño",
           "Guías locales curadas y contenido de ciudad",
@@ -170,21 +166,21 @@
   },
   "integrations": {
     "title": "Integraciones",
-    "subtitle": "Castella se conecta con los sistemas que ya utiliza — certificadas, mantenidas y con soporte.",
+    "subtitle": "La plataforma Sumin se conecta con los sistemas que su hotel ya utiliza; el alcance se confirma por proyecto.",
     "pmsTitle": "Sistemas de gestión hotelera (PMS)",
-    "pmsText": "Sincronización bidireccional con las plataformas PMS líderes: perfiles de huésped, estado de habitación, horas de salida y cargos en cuenta fluyen automáticamente.",
+    "pmsText": "Se conecta con las plataformas PMS habituales: perfiles de huésped, estado de habitación, horas de salida y cargos en cuenta fluyen automáticamente.",
     "locksTitle": "Cerraduras y accesos",
-    "locksText": "Genere llaves móviles y códigos PIN en el check-in, enviados al teléfono del huésped y reflejados en la pantalla de bienvenida de la TV.",
+    "locksText": "Soporta integración con cerraduras: llaves móviles y códigos PIN generados en el check-in, enviados al teléfono del huésped y reflejados en la pantalla de bienvenida.",
     "paymentsTitle": "Pagos y cuenta",
-    "paymentsText": "Cargos a la habitación, cuentas divididas y pagos con tarjeta directos para ventas adicionales — conciliados con su PMS sin registro manual.",
+    "paymentsText": "Soporta cargos a la habitación, cuentas divididas y pagos con tarjeta directos, conciliados con su PMS.",
     "hardwareTitle": "TVs y hardware",
-    "hardwareText": "Certificado para Smart TVs de Samsung, LG y Philips. Funciona con su cabecera existente o con nuestra fuente de TV en la nube.",
+    "hardwareText": "Funciona en Smart TVs de Samsung, LG y Philips; compatible con su cabecera existente o con fuente de TV en la nube.",
     "ecosystem": "Y más de 60 integraciones adicionales en restauración, spa, feedback y programas de fidelización."
   },
   "faq": {
     "title": "Preguntas frecuentes",
     "q1": "¿Tenemos que comprar televisores nuevos?",
-    "a1": "Lo más probable es que no. Castella funciona de forma nativa en Smart TVs de Samsung, LG y Philips de los últimos años. Para pantallas más antiguas, un pequeño reproductor por habitación es un puente asequible.",
+    "a1": "Lo más probable es que no. Sumin funciona de forma nativa en Smart TVs de Samsung, LG y Philips de los últimos años. Para pantallas más antiguas, un pequeño reproductor por habitación es un puente asequible.",
     "q2": "¿Cuánto tarda la instalación?",
     "a2": "Una propiedad única suele estar operativa en un día. Los despliegues en grupos tardan de una a dos semanas por propiedad, acompañados por nuestro equipo de implantación junto al suyo.",
     "q3": "¿Cómo protege el casting la privacidad del huésped?",
@@ -193,10 +189,10 @@
     "a4": "Por completo. Canales, cartas, pantallas de bienvenida y la propia interfaz llevan su marca. Nuestro equipo de contenidos también puede producir y actualizar material para usted si lo solicita."
   },
   "about": {
-    "title": "La pantalla más vista de la habitación, por fin bien atendida",
-    "subtitle": "Somos un equipo de tecnólogos de la hospitalidad con la misión de arreglar el punto de contacto más desatendido de la estancia.",
-    "storyTitle": "Nuestra historia",
-    "story": "Castella nació en 2021 en un hotel de Lisboa, donde dos ingenieros vieron a un huésped pelearse con un menú de TV durante diez minutos y rendirse. Los hoteles gastan millones en vestíbulos y ropa de cama — y luego dejan la pantalla más grande de la habitación en la década pasada. Decidimos cambiarlo, habitación por habitación. Hoy Castella sirve a propiedades en 34 países.",
+    "title": "La TV de la habitación, de vuelta a la experiencia",
+    "subtitle": "Quanzhou Sumin Electronics Technology Co., Ltd. — especializada en soluciones de TV e IPTV para habitaciones.",
+    "storyTitle": "Sobre Sumin",
+    "story": "Quanzhou Sumin Electronics Technology Co., Ltd. es una empresa de tecnología electrónica con sede en Quanzhou, Fujian (China), especializada en soluciones de TV e IPTV para habitaciones de hotel. Integramos apps de Smart TV, casting, streaming y servicios al huésped en una sola plataforma — para que los hoteles mejoren la experiencia con los televisores existentes, sin cambiar pantallas ni tender cableado nuevo.",
     "valuesTitle": "En qué creemos",
     "values": {
       "guests": {
@@ -214,7 +210,7 @@
     }
   },
   "contact": {
-    "title": "Vea Castella en sus habitaciones",
+    "title": "Vea Sumin en sus habitaciones",
     "subtitle": "Una demo de 30 minutos pensada para su propiedad — sin compromiso, sin presentaciones, solo el producto.",
     "infoTitle": "Datos de contacto",
     "email": "Escríbanos",
@@ -244,18 +240,19 @@
   },
   "cta": {
     "title": "¿Listo para mejorar sus habitaciones?",
-    "text": "Únase a hoteles de 34 países que ya usan Castella. La demo dura 30 minutos — sus huéspedes notarán la diferencia durante años.",
+    "text": "En una demo de 30 minutos, vea cómo Sumin convierte los televisores actuales de sus habitaciones en una plataforma inteligente para huéspedes — sin compromiso, solo el producto.",
     "contact": "Solicitar demo",
     "explore": "Descubrir funciones"
   },
   "footer": {
-    "tagline": "La plataforma de TV hotelera que convierte las pantallas de las habitaciones en experiencias para el huésped.",
+    "tagline": "La plataforma de TV para habitaciones de Sumin Electronics.",
     "product": "Producto",
     "company": "Empresa",
     "language": "Idioma",
     "terms": "Términos del servicio",
     "cookies": "Política de cookies",
-    "rights": "Todos los derechos reservados."
+    "rights": "Todos los derechos reservados.",
+    "legalName": "Quanzhou Sumin Electronics Technology Co., Ltd."
   },
   "terms": {
     "title": "Términos del servicio",
@@ -263,11 +260,11 @@
     "sections": {
       "intro": {
         "h": "1. Aceptación de los términos",
-        "p": "Al acceder o utilizar la plataforma Castella acepta quedar vinculado por estos Términos del Servicio y todas las leyes aplicables. Si no está de acuerdo con alguna parte, no debe utilizar el servicio."
+        "p": "Al acceder o utilizar la plataforma Sumin acepta quedar vinculado por estos Términos del Servicio y todas las leyes aplicables. Si no está de acuerdo con alguna parte, no debe utilizar el servicio."
       },
       "service": {
         "h": "2. Descripción del servicio",
-        "p": "Castella proporciona una plataforma de TV hotelera basada en la nube con aplicaciones para huéspedes y herramientas de gestión, ofrecida bajo acuerdos por propiedad. Las funciones dependen del alcance acordado."
+        "p": "Sumin proporciona una plataforma de TV hotelera basada en la nube con aplicaciones para huéspedes y herramientas de gestión, ofrecida bajo acuerdos por propiedad. Las funciones dependen del alcance acordado."
       },
       "accounts": {
         "h": "3. Responsabilidades de la propiedad",
@@ -305,15 +302,15 @@
   },
   "media": {
     "alt": {
-      "hero": "Pantalla de bienvenida de la plataforma Castella en una habitación",
+      "hero": "Pantalla de bienvenida de la plataforma Sumin en una habitación",
       "upsell": "Bandeja de servicio de habitaciones, toallas dobladas y campana de latón junto al menú del televisor",
       "satisfaction": "Huésped enviando una película al televisor de la habitación",
       "staff": "Panel de recepción con solicitudes de huéspedes",
-      "about": "El equipo de Castella y nuestra historia",
+      "about": "El equipo de Sumin y nuestra historia",
       "contact": "Soporte acrílico con QR, teléfono, campana de servicio de latón y tarjeta de habitación en un pasillo de hotel",
       "features": "Televisor, soporte acrílico con QR y teléfono con la misma interfaz para huéspedes sobre una consola de mármol",
-      "integrations": "Integraciones de Castella con PMS, cerraduras, pagos y televisores",
-      "solutions": "Soluciones de Castella para cada tipo de alojamiento"
+      "integrations": "Integraciones de Sumin con PMS, cerraduras, pagos y televisores",
+      "solutions": "Soluciones de Sumin para cada tipo de alojamiento"
     }
   },
   "seo": {
@@ -321,9 +318,9 @@
     "keywordsFeatures": "funciones IPTV hotel, casting TV hoteles, apps streaming habitación, room service digital, pantalla de bienvenida, upselling hotel, comidas QR sin contacto hotel, EPG hotel, VOD hotel",
     "keywordsSolutions": "soluciones IPTV hoteles, plataforma TV cadenas hoteleras, sistema TV resorts, TV hoteles boutique, TV apartahoteles, TV hoteles wellness",
     "keywordsIntegrations": "integración IPTV hotel, integración PMS, Oracle Opera, Mews, Cloudbeds, cerraduras hoteleras, Salto, integración pagos, Samsung LYNK, LG Pro:Centric, Android TV hotel",
-    "keywordsAbout": "sobre Castella, proveedor IPTV hotel, empresa tecnología hotelera",
-    "keywordsContact": "demo IPTV hotel, solicitar demo TV hotel, presupuesto TV hotel, contactar Castella",
-    "descHome": "Castella es la plataforma de IPTV para hoteles que convierte los televisores de las habitaciones en experiencias de cinco estrellas: casting, streaming, restauración digital y ventas adicionales en 12 idiomas.",
+    "keywordsAbout": "sobre Sumin, Quanzhou Sumin Electronics, proveedor IPTV hotel, empresa tecnología hotelera",
+    "keywordsContact": "demo IPTV hotel, solicitar demo TV hotel, presupuesto TV hotel, contactar Sumin",
+    "descHome": "Sumin es la plataforma de IPTV hotelero de Quanzhou Sumin Electronics: casting, streaming, pantallas de bienvenida y restauración digital, con interfaz multilingüe.",
     "descFeatures": "Apps de Smart TV, casting, streaming, pantallas de bienvenida, restauración digital y upselling - el conjunto completo de IPTV hotelero en Samsung, LG y Philips.",
     "descSolutions": "Soluciones de IPTV para hoteles: cadenas, independientes, resorts, boutique, apartahoteles y hoteles de bienestar - una plataforma para sus huéspedes."
   }
