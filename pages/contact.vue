@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const { t, locale } = useI18n()
 
-useSeoMeta({ title: t('contact.title') })
+usePageSeo('contact', t('contact.title'))
 
 const form = reactive({
   name: '',

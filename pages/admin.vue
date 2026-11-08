@@ -1,4 +1,6 @@
 <script setup lang="ts">
+useSeoMeta({ title: 'Admin', robots: 'noindex, nofollow' })
+
 interface Submission {
   id: number
   name: string

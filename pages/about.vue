@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const { t } = useI18n()
 
-useSeoMeta({ title: t('about.title') })
+usePageSeo('about', t('about.title'))
 
 const valueKeys = ['guests', 'simple', 'honest']
 </script>

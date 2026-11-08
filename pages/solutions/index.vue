@@ -2,7 +2,7 @@
 const { t } = useI18n()
 const localePath = useLocalePath()
 
-useSeoMeta({ title: t('solutions.title') })
+usePageSeo('solutions', t('solutions.title'))
 
 const solutionKeys = ['groups', 'independent', 'resorts', 'boutique', 'apartments', 'wellness']
 const iconMap: Record<string, string> = {

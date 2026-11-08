@@ -304,14 +304,25 @@
   "media": {
     "alt": {
       "hero": "Pantalla de bienvenida de la plataforma Castella en una habitación",
-      "upsell": "Huésped pidiendo room service desde el televisor de la habitación",
+      "upsell": "Bandeja de servicio de habitaciones, toallas dobladas y campana de latón junto al menú del televisor",
       "satisfaction": "Huésped enviando una película al televisor de la habitación",
       "staff": "Panel de recepción con solicitudes de huéspedes",
       "about": "El equipo de Castella y nuestra historia",
-      "contact": "Hable con el equipo de Castella sobre su propiedad",
-      "features": "Panorama de las funciones de TV hotelera de Castella",
+      "contact": "Soporte acrílico con QR, teléfono, campana de servicio de latón y tarjeta de habitación en un pasillo de hotel",
+      "features": "Televisor, soporte acrílico con QR y teléfono con la misma interfaz para huéspedes sobre una consola de mármol",
       "integrations": "Integraciones de Castella con PMS, cerraduras, pagos y televisores",
       "solutions": "Soluciones de Castella para cada tipo de alojamiento"
     }
+  },
+  "seo": {
+    "keywordsHome": "IPTV para hoteles, TV de hotel, sistema TV hotel, entretenimiento en habitación, smart TV para hoteles, casting hotel, plataforma de experiencia de huésped",
+    "keywordsFeatures": "funciones IPTV hotel, casting TV hoteles, apps streaming habitación, room service digital, pantalla de bienvenida, upselling hotel",
+    "keywordsSolutions": "soluciones IPTV hoteles, plataforma TV cadenas hoteleras, sistema TV resorts, TV hoteles boutique, TV apartahoteles, TV hoteles wellness",
+    "keywordsIntegrations": "integración IPTV hotel, integración PMS, Oracle Opera, cerraduras hoteleras, integración pagos, TV Samsung LG hoteles",
+    "keywordsAbout": "sobre Castella, proveedor IPTV hotel, empresa tecnología hotelera",
+    "keywordsContact": "demo IPTV hotel, solicitar demo TV hotel, presupuesto TV hotel, contactar Castella",
+    "descHome": "Castella es la plataforma de IPTV para hoteles que convierte los televisores de las habitaciones en experiencias de cinco estrellas: casting, streaming, restauración digital y ventas adicionales en 12 idiomas.",
+    "descFeatures": "Apps de Smart TV, casting, streaming, pantallas de bienvenida, restauración digital y upselling - el conjunto completo de IPTV hotelero en Samsung, LG y Philips.",
+    "descSolutions": "Soluciones de IPTV para hoteles: cadenas, independientes, resorts, boutique, apartahoteles y hoteles de bienestar - una plataforma para sus huéspedes."
   }
 }

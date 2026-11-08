@@ -304,14 +304,25 @@
   "media": {
     "alt": {
       "hero": "客房中的 Castella 酒店电视平台欢迎屏",
-      "upsell": "客人通过客房电视点购客房餐饮",
+      "upsell": "客房送餐托盘、叠好的毛巾与铜质餐盖，摆在电视点餐菜单前",
       "satisfaction": "客人向客房电视投屏电影",
       "staff": "前台仪表盘显示宾客请求",
       "about": "Castella 团队与产品故事",
-      "contact": "与 Castella 团队聊聊您的酒店",
-      "features": "Castella 酒店电视功能总览",
+      "contact": "酒店走廊中的亚克力二维码立牌、手机、铜铃与房卡",
+      "features": "大理石台面上的电视、亚克力二维码立牌与手机，显示同一套客房界面",
       "integrations": "Castella 与 PMS、门锁、支付和电视的集成",
       "solutions": "面向各类酒店的 Castella 解决方案"
     }
+  },
+  "seo": {
+    "keywordsHome": "酒店IPTV, 酒店电视系统, 客房娱乐, 酒店智能电视, 酒店投屏, 客房点播, 酒店数字化",
+    "keywordsFeatures": "酒店IPTV功能, 酒店电视投屏, 客房流媒体, 客房点餐, 欢迎屏, 酒店增值销售",
+    "keywordsSolutions": "酒店IPTV方案, 连锁酒店电视平台, 度假村电视系统, 精品酒店电视, 公寓酒店电视, 康养酒店电视",
+    "keywordsIntegrations": "酒店IPTV集成, PMS对接, 门锁对接, 酒店支付集成, 三星LG酒店电视",
+    "keywordsAbout": "Castella介绍, 酒店IPTV厂商, 酒店科技公司",
+    "keywordsContact": "酒店IPTV演示, 酒店电视演示预约, 酒店电视报价, 联系Castella",
+    "descHome": "Castella 酒店IPTV平台：把客房电视变成五星体验——投屏、流媒体、数字点餐与增值销售，支持 12 种宾客语言。",
+    "descFeatures": "智能电视应用、投屏、流媒体、欢迎屏、数字点餐与增值销售——完整的酒店IPTV功能，适配三星/LG/飞利浦。",
+    "descSolutions": "面向连锁集团、独立酒店、度假村、精品酒店、公寓与康养酒店的酒店IPTV解决方案。"
   }
 }

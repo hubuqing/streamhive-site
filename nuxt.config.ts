@@ -3,6 +3,11 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   css: ['~/assets/css/main.css'],
   modules: ['@nuxtjs/i18n'],
+  runtimeConfig: {
+    public: {
+      siteUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://streamhive-site.hubuqing.workers.dev'
+    }
+  },
   app: {
     head: {
       titleTemplate: '%s · Castella',
@@ -30,6 +35,6 @@ export default defineNuxtConfig({
       redirectOn: 'root',
       fallbackLocale: 'en'
     },
-    baseUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://castella.example.com'
+    baseUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://streamhive-site.hubuqing.workers.dev'
   }
 })

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const { t } = useI18n()
 
-useSeoMeta({ title: t('features.title') })
+usePageSeo('features', t('features.title'))
 
 const featureKeys = [
   'smarttv', 'casting', 'streaming', 'welcome', 'info',

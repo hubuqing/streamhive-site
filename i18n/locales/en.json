@@ -304,14 +304,25 @@
   "media": {
     "alt": {
       "hero": "Castella hospitality TV platform welcome screen in a guest room",
-      "upsell": "Guest ordering room service from the room TV",
+      "upsell": "Room-service tray, folded towels and a brass cloche beside the room TV dining menu",
       "satisfaction": "Guest casting a movie to the room TV",
       "staff": "Front desk dashboard showing guest requests",
       "about": "The Castella team and product story",
-      "contact": "Talk to the Castella team about your property",
-      "features": "Overview of the Castella hospitality TV features",
+      "contact": "Acrylic QR stand, phone, brass service bell and room key card in a hotel corridor",
+      "features": "TV, acrylic QR stand and phone showing the same guest interface on a marble console",
       "integrations": "Castella integrations with PMS, locks, payments and TVs",
       "solutions": "Castella solutions for every kind of property"
     }
+  },
+  "seo": {
+    "keywordsHome": "hotel IPTV, hospitality TV, hotel TV system, in-room entertainment, smart TV for hotels, hotel casting, guest experience platform",
+    "keywordsFeatures": "hotel IPTV features, TV casting for hotels, hotel streaming apps, digital room service, hotel welcome screen, hotel upselling",
+    "keywordsSolutions": "IPTV solutions for hotels, hotel groups TV platform, resort TV system, boutique hotel TV, aparthotel TV, wellness hotel TV",
+    "keywordsIntegrations": "hotel IPTV integration, PMS integration, Oracle Opera, hotel door locks, hotel payment integration, Samsung LG hotel TV",
+    "keywordsAbout": "about Castella, hotel IPTV provider, hospitality technology company",
+    "keywordsContact": "hotel IPTV demo, book hospitality TV demo, hotel TV quote, contact Castella",
+    "descHome": "Castella is the hotel IPTV platform that turns guest room TVs into five-star experiences: casting, streaming, digital dining and upselling in 12 guest languages.",
+    "descFeatures": "Smart TV apps, casting, streaming, welcome screens, digital dining and upselling - the complete hotel IPTV feature set on Samsung, LG and Philips.",
+    "descSolutions": "Hotel IPTV solutions for groups, independents, resorts, boutique, apartments and wellness hotels - one platform, tuned to your guests."
   }
 }

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const { t } = useI18n()
 
-useSeoMeta({ title: t('integrations.title') })
+usePageSeo('integrations', t('integrations.title'))
 
 const sections = [
   { key: 'pms', icon: 'cloud', partners: ['Oracle Hospitality', 'Mews', 'Cloudbeds', 'Apaleo'] },

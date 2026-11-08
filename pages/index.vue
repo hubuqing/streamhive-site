@@ -2,7 +2,7 @@
 const { t } = useI18n()
 const localePath = useLocalePath()
 
-useSeoMeta({ title: t('hero.title') })
+usePageSeo('home', t('hero.title'))
 
 const featureKeys = ['smarttv', 'casting', 'streaming', 'welcome', 'info', 'dining']
 const solutionKeys = ['groups', 'independent', 'resorts', 'boutique', 'apartments', 'wellness']

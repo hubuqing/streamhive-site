@@ -22,7 +22,7 @@ definePageMeta({
   }
 })
 
-useSeoMeta({ title: () => t(`solutions.list.${slug.value}.title`) })
+usePageSeo('solutionDetail', t(`solutions.list.${slug.value}.title`))
 
 const bullets = computed(() => {
   const raw = tm(`solutions.list.${slug.value}.bullets`) as unknown

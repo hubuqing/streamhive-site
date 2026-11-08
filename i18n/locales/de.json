@@ -304,14 +304,25 @@
   "media": {
     "alt": {
       "hero": "Castella-Begrüßungsbildschirm im Gästezimmer",
-      "upsell": "Gast bestellt Zimmerservice über das Zimmer-Fernsehgerät",
+      "upsell": "Roomservice-Tablett, gefaltete Handtücher und Messinghaube neben dem Speise-Menü am Zimmer-TV",
       "satisfaction": "Gast überträgt einen Film auf das Zimmer-Fernsehgerät",
       "staff": "Rezeptions-Dashboard mit Gästeanfragen",
       "about": "Das Castella-Team und unsere Geschichte",
-      "contact": "Sprechen Sie mit dem Castella-Team über Ihr Haus",
-      "features": "Überblick über die Castella-Hotelfernseh-Funktionen",
+      "contact": "Acryl-QR-Aufsteller, Smartphone, Messing-Servierglocke und Zimmerschlüssel in einem Hotelflur",
+      "features": "TV, Acryl-QR-Aufsteller und Smartphone mit derselben Gästeoberfläche auf einer Marmorkonsole",
       "integrations": "Castella-Integrationen mit PMS, Schlössern, Zahlungen und TVs",
       "solutions": "Castella-Lösungen für jede Art von Unterkunft"
     }
+  },
+  "seo": {
+    "keywordsHome": "Hotel-IPTV, Hotelfernsehen, TV-System Hotel, Zimmer-Entertainment, Smart-TV für Hotels, Hotel-Casting, Gästeerlebnis-Plattform",
+    "keywordsFeatures": "Hotel-IPTV-Funktionen, TV-Casting für Hotels, Streaming im Zimmer, digitaler Zimmerservice, Begrüßungsbildschirm, Hotel-Upselling",
+    "keywordsSolutions": "IPTV-Lösungen für Hotels, Hotelgruppen-TV-Plattform, Resort-TV-System, Boutique-Hotel-TV, Aparthotel-TV, Wellness-Hotel-TV",
+    "keywordsIntegrations": "Hotel-IPTV-Integration, PMS-Anbindung, Oracle Opera, Hotel-Türschlösser, Zahlungsintegration, Samsung-LG-Hotel-TV",
+    "keywordsAbout": "über Castella, Hotel-IPTV-Anbieter, Hospitality-Technologieunternehmen",
+    "keywordsContact": "Hotel-IPTV-Demo, Hotelfernsehen-Demo buchen, Hotel-TV-Angebot, Castella kontaktieren",
+    "descHome": "Castella ist die Hotel-IPTV-Plattform, die Zimmer-Fernseher in Fünf-Sterne-Erlebnisse verwandelt: Casting, Streaming, digitales Dining und Upselling in 12 Gästesprachen.",
+    "descFeatures": "Smart-TV-Apps, Casting, Streaming, Begrüßungsbildschirme, digitales Dining und Upselling - das komplette Hotel-IPTV-Funktionsset auf Samsung, LG und Philips.",
+    "descSolutions": "Hotel-IPTV-Lösungen für Gruppen, Individualhotels, Resorts, Boutique-, Apart- und Wellnesshotels - eine Plattform, abgestimmt auf Ihre Gäste."
   }
 }
