@@ -36,6 +36,19 @@ const bullets = computed(() => {
       <div class="card-icon page-hero-icon"><AppIcon :name="ICON_MAP[slug] || 'tv'" /></div>
       <h1>{{ t(`solutions.list.${slug}.title`) }}</h1>
       <p>{{ t(`solutions.list.${slug}.short`) }}</p>
+
+      <div class="page-hero-visual">
+        <div class="media-frame">
+          <img
+            src="/images/banner-solutions.webp"
+            :alt="t('media.alt.solutions')"
+            width="2048"
+            height="1024"
+            loading="lazy"
+            decoding="async"
+          >
+        </div>
+      </div>
     </section>
 
     <section class="section" style="padding-top: 20px">
