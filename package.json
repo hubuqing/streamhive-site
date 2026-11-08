@@ -1,0 +1,20 @@
+{
+  "name": "streamhive-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "build:cf": "nuxt build --preset=cloudflare_module",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^9.5.6",
+    "nuxt": "^3.21.11",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  }
+}

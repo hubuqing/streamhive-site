@@ -1,0 +1,471 @@
+{
+  "nav": {
+    "features": "Características",
+    "solutions": "Soluciones",
+    "pricing": "Precios",
+    "docs": "Documentación",
+    "about": "Sobre nosotros",
+    "contact": "Contacto",
+    "cta": "Solicitar demo"
+  },
+  "common": {
+    "changeLanguage": "Cambiar idioma",
+    "accentColor": "Color de acento",
+    "accent_violet": "Violeta",
+    "accent_ocean": "Azul océano",
+    "accent_ember": "Ámbar",
+    "accent_forest": "Verde bosque",
+    "toLight": "Cambiar a modo claro",
+    "toDark": "Cambiar a modo oscuro",
+    "learnMore": "Saber más",
+    "getStarted": "Empezar ahora",
+    "viewAll": "Ver todo",
+    "orderNow": "Pedir ahora",
+    "backHome": "Volver al inicio"
+  },
+  "hero": {
+    "badge": "StreamHive 4.0 — Middleware IPTV multilingüe",
+    "title": "Gestione todo su negocio de IPTV",
+    "titleAccent": "desde una sola colmena",
+    "subtitle": "StreamHive es una plataforma completa de gestión IPTV/OTT: gestión de líneas, TV en directo, VOD, EPG, facturación, distribuidores y analítica — en seis idiomas para audiencias en cada pantalla.",
+    "primary": "Solicitar demo",
+    "secondary": "Ver precios",
+    "statSubscribers": "Suscriptores finales atendidos",
+    "statChannels": "Canales en directo gestionados",
+    "statUptime": "Disponibilidad de la plataforma",
+    "statLatency": "Tiempo de zapeo de canal"
+  },
+  "home": {
+    "featuresTitle": "Todo lo que un operador de TV necesita",
+    "featuresSubtitle": "Desde la ingesta hasta la reproducción, cada capa de su operación IPTV vive en una plataforma fiable y probada en batalla.",
+    "solutionsTitle": "Construido para cada pantalla y cada negocio",
+    "solutionsSubtitle": "Hoteles, transporte, ISP y radiodifusores de todo el mundo confían en StreamHive para entregar televisión a escala."
+  },
+  "features": {
+    "title": "Rico en funciones por diseño",
+    "subtitle": "Una caja de herramientas completa para lanzar, operar y hacer crecer un servicio de televisión moderno.",
+    "list": {
+      "middleware": {
+        "title": "Middleware IPTV",
+        "text": "El corazón de su plataforma. Gestione suscriptores, suscripciones, dispositivos y permisos en todas las apps y descodificadores."
+      },
+      "live": {
+        "title": "TV en directo y multidifusión",
+        "text": "Zapeo ultrarrápido, pausa de directo y catch-up construidos sobre entrega HLS/DASH probada para flujos sólidos como una roca."
+      },
+      "vod": {
+        "title": "Vídeo bajo demanda",
+        "text": "Bibliotecas curadas, categorías, ventanas de alquiler y gestión de series con transcodificación automática y carátulas."
+      },
+      "epg": {
+        "title": "EPG y Catch-up",
+        "text": "Guía electrónica de programación completa con 14 días de anticipación, archivos catch-up y mapeo automático de metadatos por idioma."
+      },
+      "transcoding": {
+        "title": "Transcodificación en la nube",
+        "text": "Escalones de bitrate adaptativo de 240p a 4K HDR. Granjas aceleradas por hardware que escalan con su audiencia, no con su factura."
+      },
+      "drm": {
+        "title": "DRM y antipiratería",
+        "text": "Protección Widevine, PlayReady y FairPlay con marcas de agua y monitorización del flujo en tiempo real para frenar fugas."
+      },
+      "billing": {
+        "title": "Facturación y pagos",
+        "text": "Stripe, PayPal y métodos locales. Facturación automática, impuestos, paquetes, promociones y gestión de impago incluidos."
+      },
+      "resellers": {
+        "title": "Gestión de distribuidores",
+        "text": "Árboles de distribuidores multinivel con créditos, marca y permisos por panel. Crezca con socios, no con nómina."
+      },
+      "analytics": {
+        "title": "Analítica en tiempo real",
+        "text": "Predicción de bajas, mapas de calor de canales, paneles de QoS e informes exportables que le dicen qué corregir después."
+      },
+      "clients": {
+        "title": "Apps y descodificadores",
+        "text": "Apps de marca blanca para Android, iOS, Smart TV y todos los chipsets STB importantes — una base de código, rendimiento nativo."
+      },
+      "api": {
+        "title": "API REST abierta",
+        "text": "Automatícelo todo. Más de 300 endpoints documentados, webhooks y SDKs para integradores de PHP, Go y Python."
+      },
+      "security": {
+        "title": "Seguridad primero",
+        "text": "Cifrado de extremo a extremo, SSO, pistas de auditoría y aislamiento por inquilino. Pruebas de penetración de terceros periódicas."
+      }
+    }
+  },
+  "solutions": {
+    "title": "Soluciones para cada operador",
+    "subtitle": "Una plataforma, adaptada a su sector. Elija su escenario y vea cómo encaja StreamHive.",
+    "list": {
+      "hotels": {
+        "title": "Hoteles y complejos",
+        "short": "Entretenimiento en la habitación sin carga de personal y pantallas de bienvenida con su marca.",
+        "long": "Ofrezca a cada huésped una experiencia de TV de cinco estrellas. StreamHive entrega TV en directo, canales de información del hotel y envío a las pantallas de la habitación — todo gestionado desde un panel por su personal actual.",
+        "bullets": [
+          "Página de bienvenida personalizada con el nombre del huésped y la información de salida",
+          "Canales de información para spa, restaurante y eventos",
+          "Sin descodificadores — funciona en las TV y móviles del huésped",
+          "Aprovisionamiento diario automático desde su PMS"
+        ]
+      },
+      "airlines": {
+        "title": "Aerolíneas",
+        "short": "Streaming a bordo por Wi-Fi de cabina con cachés de contenido sin conexión.",
+        "long": "Lleve el entretenimiento premium a bordo. StreamHive almacena en caché bibliotecas curadas en la aeronave y las sirve por el Wi-Fi de cabina a los dispositivos de los pasajeros — con informes por vuelo al aterrizar.",
+        "bullets": [
+          "Rotación de contenido sincronizada en tierra por ruta y temporada",
+          "Los dispositivos de los pasajeros como pantallas — sin hardware en los asientos",
+          "Interfaz multilingüe acorde a los idiomas de su tripulación",
+          "Analítica de uso entregada tras cada aterrizaje"
+        ]
+      },
+      "hospitals": {
+        "title": "Hospitales y clínicas",
+        "short": "Entretenimiento e infotainment para pacientes, entregado de forma segura y privada.",
+        "long": "Mantenga a los pacientes cómodos e informados. StreamHive lleva entretenimiento a las pantallas de cabecera junto con canales de información del hospital, contenido educativo y bibliotecas de relajación.",
+        "bullets": [
+          "Paquetes de relajación, meditación y contenido seguro para niños",
+          "Canales de información del hospital para horarios de visitas y servicios",
+          "Configuración aislada por planta, conforme al RGPD",
+          "Funciona sobre las pantallas de cabecera y el Wi-Fi existentes"
+        ]
+      },
+      "isps": {
+        "title": "Plataformas TV para ISP",
+        "short": "IPTV de grado operador para ISP de fibra e inalámbricos, totalmente personalizable.",
+        "long": "Añada televisión a su triple play. StreamHive ofrece a los ISP una plataforma IPTV de grado operador con entrega multidifusión, aprovisionamiento de suscriptores desde sistemas BRAS/AAA y marca blanca completa.",
+        "bullets": [
+          "Entrega multidifusión y unidifusión sobre su propia red",
+          "Enganches de aprovisionamiento para RADIUS, DHCP opción 60 y TR-069",
+          "Panel de distribuidores para su red de agentes",
+          "Arquitectura con disponibilidad del 99,99% respaldada por SLA"
+        ]
+      },
+      "cruise-ships": {
+        "title": "Cruceros",
+        "short": "Entretenimiento en el mar con conformación de ancho de banda apta para satélite.",
+        "long": "Deleite a los pasajeros a través del océano. StreamHive incluye modos de entrega conscientes del ancho de banda, sincronización de contenido por satélite en las escalas y parrillas de canales por cubierta para su buque.",
+        "bullets": [
+          "Bibliotecas primero sin conexión, sincronizadas en cada puerto",
+          "Conformación de ancho de banda para enlaces satelitales",
+          "Parrillas por cubierta y por clase de pasajero",
+          "Zonas infantiles con paquetes curados y seguros"
+        ]
+      },
+      "buses": {
+        "title": "Autobuses y autocares",
+        "short": "Entretenimiento a bordo por Wi-Fi del vehículo con control para el conductor.",
+        "long": "Convierta el tiempo de viaje en tiempo de calidad. Los pasajeros ven películas, música y radio en directo en sus propios dispositivos por el Wi-Fi del autocar, mientras el conductor lo controla con un toque desde un panel.",
+        "bullets": [
+          "Panel para el conductor con control de un toque",
+          "Los dispositivos de los pasajeros como pantallas por el Wi-Fi del vehículo",
+          "Contenido por ruta y licencias regionales",
+          "Informes a nivel de flota para operadores"
+        ]
+      },
+      "apartments": {
+        "title": "Apartamentos e inmobiliarias",
+        "short": "Televisión para todo el edificio como servicio — una ventaja que cierra contratos.",
+        "long": "Ofrezca a los residentes algo especial. StreamHive ejecuta televisión para todo el edificio sobre la red existente, con facturación por apartamento y un portal con su marca que controla su equipo de propiedad.",
+        "bullets": [
+          "Paquetes de TV incluidos que cierran más contratos",
+          "Permisos por apartamento y mejoras opcionales",
+          "Canal de tablón de anuncios para la gestión",
+          "Cero hardware en zonas comunes"
+        ]
+      },
+      "news-agencies": {
+        "title": "Agencias de noticias y radiodifusores",
+        "short": "Muros de monitorización interna y distribución de flujos a afiliados.",
+        "long": "Monitorice y distribuya el mundo. StreamHive ingiere cientos de flujos por satélite e IP, ofrece a las redacciones muros de canales con zapeo instantáneo y distribuye flujos con marca a los afiliados.",
+        "bullets": [
+          "Muros de monitorización con zapeo en fracciones de segundo",
+          "Ingesta por satélite e IP con conmutación por error",
+          "Distribución a afiliados con marca por inquilino",
+          "Archivo con transcripciones navegables"
+        ]
+      },
+      "homes": {
+        "title": "Suscriptores domésticos",
+        "short": "Televisión directa al consumidor para operadores OTT y dueños de contenido.",
+        "long": "Lance su propio servicio de TV por streaming. StreamHive se encarga del registro, el pago, las apps y el soporte para que usted se centre en el contenido que su audiencia ama.",
+        "bullets": [
+          "Registro de autoservicio con activación instantánea",
+          "Modelos de suscripción mensual, anual y prepago",
+          "Perfiles familiares y control parental",
+          "Apps para TV, móvil, web y STB desde el primer día"
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "title": "Precios simples y escalables",
+    "subtitle": "Empiece pequeño, crezca sin límites. Todos los planes incluyen todos los módulos — sin niveles ocultos.",
+    "period": "/mes",
+    "custom": "A medida",
+    "customNote": "Precios por volumen, SLA y opciones on-premise",
+    "popular": "Más popular",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "€99",
+        "desc": "Para operadores nuevos que validan su mercado",
+        "features": [
+          "Hasta 1.000 suscriptores",
+          "50 canales en directo + VOD básico",
+          "1 panel de distribuidor",
+          "Apps de marca blanca (1 plataforma)",
+          "Soporte por correo, respuesta en 24 h"
+        ]
+      },
+      "growth": {
+        "name": "Growth",
+        "price": "€499",
+        "desc": "Para operadores consolidados en rápido crecimiento",
+        "features": [
+          "Hasta 25.000 suscriptores",
+          "Canales ilimitados y biblioteca VOD",
+          "10 paneles de distribuidor",
+          "Apps de marca blanca (todas las plataformas)",
+          "Transcodificación en la nube incluida",
+          "Soporte prioritario, respuesta en 4 h"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "",
+        "desc": "Para ISP, telecos y plataformas nacionales",
+        "features": [
+          "Suscriptores y canales ilimitados",
+          "Árbol de distribuidores ilimitado",
+          "On-premise o nube privada",
+          "Suite DRM y antipiratería",
+          "Gestor de cuenta dedicado",
+          "SLA del 99,99% con penalizaciones"
+        ]
+      }
+    },
+    "faqTitle": "Preguntas frecuentes",
+    "faq": {
+      "q1": "¿Puedo migrar desde otra plataforma?",
+      "a1": "Sí. Nuestro equipo de migración importa suscriptores, parrillas, bibliotecas VOD y datos EPG desde todos los paneles IPTV importantes — normalmente en una semana laboral y sin coste adicional en planes Growth y superiores.",
+      "q2": "¿Cobran por canal o por suscriptor?",
+      "a2": "Ninguno de los dos. Los planes se basan en suscriptores activos, y el número de canales es ilimitado en Growth y Enterprise. Nunca pagará un impuesto por canal por ampliar su parrilla.",
+      "q3": "¿La plataforma está realmente disponible en seis idiomas?",
+      "a3": "Sí — inglés, alemán, turco, chino, español y ruso, tanto en el panel de administración como en las apps del usuario final. Se pueden añadir más idiomas bajo petición.",
+      "q4": "¿Qué ocurre si supero mi plan?",
+      "a4": "Las mejoras se aplican al instante y prorrateadas. Muchos operadores empiezan con Starter y pasan a Growth en el primer trimestre — sus datos, parrillas y apps se conservan intactos."
+    }
+  },
+  "docs": {
+    "title": "Documentación",
+    "subtitle": "Todo lo que necesita para operar, integrar y extender StreamHive.",
+    "modulesTitle": "Módulos de la plataforma",
+    "readDoc": "Leer la documentación",
+    "modules": {
+      "lines": {
+        "title": "Gestión de líneas",
+        "short": "Cree, supervise y resuelva problemas de cada línea de suscriptor.",
+        "long": "El módulo de líneas es donde los operadores pasan la mayor parte del día. Ofrece búsqueda instantánea entre millones de líneas, acciones masivas para tareas habituales y diagnóstico por línea con calidad de conexión, historial de dispositivos y uso del flujo.",
+        "bullets": [
+          "Búsqueda instantánea sobre millones de líneas",
+          "Activar, desactivar, ampliar y mover en lote",
+          "Diagnóstico y registros de conexión por línea",
+          "Políticas automáticas de caducidad y cortesía"
+        ]
+      },
+      "vod": {
+        "title": "VOD y series",
+        "short": "Bibliotecas, categorías, carátulas y lógica de alquiler.",
+        "long": "Suba una vez, publique en todas partes. El módulo VOD ingiere los ficheros fuente, dispara la escalera de transcodificación, obtiene carátulas y metadatos y publica en categorías y series — con ventanas de alquiler y precios si vende contenido.",
+        "bullets": [
+          "Escaleras de transcodificación automáticas hasta 4K",
+          "Obtención automática de carátulas y metadatos de TMDB",
+          "Ventanas de alquiler y precio por título",
+          "Importación desde FTP, S3 y feeds RSS"
+        ]
+      },
+      "epg": {
+        "title": "EPG y metadatos",
+        "short": "Guías de programación multilingües y archivos catch-up.",
+        "long": "El módulo EPG mapea feeds XMLTV y Gracenote a su parrilla, normaliza géneros entre proveedores y publica una guía de 14 días en cada idioma soportado. Los archivos catch-up se generan automáticamente desde el directo.",
+        "bullets": [
+          "Ingesta de XMLTV y Gracenote",
+          "Publicación de guía por idioma",
+          "Archivo catch-up automático por canal",
+          "Eventos personalizados y correcciones de canal"
+        ]
+      },
+      "clients": {
+        "title": "Apps y dispositivos",
+        "short": "Publique apps en las tiendas y gestione flotas de dispositivos.",
+        "long": "Lance apps nativas sin equipo móvil. El módulo Clients compila apps de marca blanca con su imagen, las envía a las tiendas en su nombre y rastrea cada dispositivo instalado — con interruptor remoto para STB robados.",
+        "bullets": [
+          "Compilaciones de marca blanca para Android, iOS y Smart TV",
+          "Envío a las tiendas gestionado por nosotros",
+          "Registro de dispositivos con interruptor remoto",
+          "Firmware de STB y autoactualización de apps"
+        ]
+      },
+      "billing": {
+        "title": "Facturación",
+        "short": "Paquetes, facturas, pagos y gestión de impagos.",
+        "long": "El módulo de facturación convierte permisos en ingresos. Defina paquetes con pruebas y promociones, cobre mediante Stripe o métodos locales, emita facturas en el idioma del cliente y automatice el cobro de renovaciones fallidas.",
+        "bullets": [
+          "Paquetes con pruebas, promociones y acumulación",
+          "Stripe, PayPal y más de 20 métodos locales",
+          "Facturación e impuestos multilingües",
+          "Gestión de impagos con reintentos inteligentes"
+        ]
+      },
+      "resellers": {
+        "title": "Distribuidores",
+        "short": "Paneles de socio multinivel con créditos y marca.",
+        "long": "Convierta a sus socios en fuerza de ventas. Cada distribuidor obtiene un panel aislado con su marca, un saldo de créditos y los permisos exactos que conceda — desde gestión completa de líneas hasta vistas de solo lectura.",
+        "bullets": [
+          "Niveles de profundidad de distribuidor ilimitados",
+          "Facturación basada en créditos entre niveles",
+          "Marca e idioma por panel",
+          "Matriz de permisos granular"
+        ]
+      },
+      "security": {
+        "title": "Seguridad",
+        "short": "DRM, antipiratería y control de acceso.",
+        "long": "La seguridad protege el contenido y la confianza. El módulo Security envuelve los flujos en Widevine, PlayReady y FairPlay, toma huellas del tráfico para detectar fugas y mantiene una pista de auditoría de cada acción privilegiada del panel.",
+        "bullets": [
+          "DRM Widevine, PlayReady y FairPlay",
+          "Marca de agua y rastreo del origen de fugas",
+          "SSO, 2FA y políticas de IP para el personal",
+          "Pista de auditoría completa de acciones del panel"
+        ]
+      },
+      "operations": {
+        "title": "Operaciones",
+        "short": "Salud, alertas y paneles de capacidad.",
+        "long": "Sepa antes que sus clientes. Operations agrega métricas de QoS de cada borde, predice la presión de capacidad antes de las horas punta y avisa al ingeniero de guardia correcto con contexto incluido.",
+        "bullets": [
+          "QoS en tiempo real en todos los bordes",
+          "Previsión de capacidad antes de los picos",
+          "Enrutado de alertas a los turnos de guardia",
+          "Informes post-incidente generados automáticamente"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "Mantenemos la televisión zumbando",
+    "subtitle": "Un equipo de ingenieros de streaming con la misión de hacer el IPTV sencillo para cada operador.",
+    "storyTitle": "Nuestra historia",
+    "story": "StreamHive nació en 2019, cuando tres ingenieros que mantenían paneles IPTV heredados decidieron que los operadores merecían algo mejor. Hoy la plataforma sirve a operadores en 40 países, desde redes de apartamentos con una sola antena hasta telecos nacionales.",
+    "valuesTitle": "En qué creemos",
+    "values": {
+      "operators": {
+        "title": "Primero los operadores",
+        "text": "Cada función empieza con un problema de un operador. Si no le ahorra tiempo o le hace ganar dinero, no la construimos."
+      },
+      "honest": {
+        "title": "Precios honestos",
+        "text": "Sin impuestos por canal, sin niveles ocultos, sin facturas sorpresa. El precio que ve es el precio que paga."
+      },
+      "openness": {
+        "title": "Abierto por defecto",
+        "text": "APIs abiertas, datos exportables y sin permanencia. Marcharse debería ser tan fácil como quedarse — aunque casi nadie lo hace."
+      }
+    }
+  },
+  "contact": {
+    "title": "Hable con nuestro equipo",
+    "subtitle": "Cuéntenos su proyecto y responderemos en un día laborable.",
+    "infoTitle": "Datos de contacto",
+    "email": "Escríbanos",
+    "phone": "Llámenos",
+    "hq": "Sede central",
+    "formTitle": "Enviar un mensaje",
+    "name": "Su nombre",
+    "emailField": "Correo electrónico",
+    "company": "Empresa",
+    "topic": "Tema",
+    "topics": {
+      "demo": "Solicitud de demo",
+      "pricing": "Consulta de precios",
+      "migration": "Ayuda con la migración",
+      "partnership": "Colaboración",
+      "other": "Otro"
+    },
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "success": "¡Gracias! Su mensaje ha sido enviado — le responderemos en breve."
+  },
+  "checkout": {
+    "title": "Pago",
+    "subtitle": "Está a un paso de lanzar su plataforma de TV.",
+    "summary": "Resumen del pedido",
+    "period": "facturado mensualmente",
+    "pay": "Pagar de forma segura",
+    "note": "Los pagos se procesan mediante Stripe. Puede cancelar o cambiar de plan en cualquier momento desde el panel de facturación."
+  },
+  "cta": {
+    "title": "¿Listo para lanzar su plataforma de TV?",
+    "text": "Únase a cientos de operadores que entregan televisión con StreamHive. Una demo personalizada dura 30 minutos — sin compromiso.",
+    "contact": "Solicitar demo",
+    "pricing": "Ver precios"
+  },
+  "footer": {
+    "tagline": "La plataforma de gestión IPTV multilingüe para operadores que van en serio.",
+    "product": "Producto",
+    "company": "Empresa",
+    "language": "Idioma",
+    "terms": "Términos del servicio",
+    "cookies": "Política de cookies",
+    "rights": "Todos los derechos reservados."
+  },
+  "terms": {
+    "title": "Términos del servicio",
+    "updated": "Última actualización: noviembre de 2026",
+    "sections": {
+      "intro": {
+        "h": "1. Aceptación de los términos",
+        "p": "Al acceder o utilizar la plataforma StreamHive acepta quedar vinculado por estos Términos del Servicio y todas las leyes aplicables. Si no está de acuerdo con alguna parte de los términos, no debe utilizar el servicio."
+      },
+      "service": {
+        "h": "2. Descripción del servicio",
+        "p": "StreamHive proporciona software de gestión de contenidos IPTV/OTT por suscripción. Las funciones y la capacidad dependen del plan adquirido. Podemos mejorar o modificar el servicio de forma continua y sin previo aviso."
+      },
+      "accounts": {
+        "h": "3. Responsabilidades del operador",
+        "p": "Los operadores son responsables de la legalidad del contenido distribuido en su territorio, de las actividades de sus suscriptores y de mantener seguras las credenciales del panel. Está prohibido compartir el acceso al panel."
+      },
+      "billing": {
+        "h": "4. Facturación y terminación",
+        "p": "Las suscripciones se renuevan automáticamente cada periodo hasta su cancelación. Las cancelaciones surten efecto al final del periodo pagado. Las cuentas vencidas entran en un periodo de cortesía, tras el cual el servicio se suspende."
+      }
+    }
+  },
+  "cookies": {
+    "title": "Política de cookies",
+    "updated": "Última actualización: noviembre de 2026",
+    "sections": {
+      "what": {
+        "h": "1. Qué son las cookies",
+        "p": "Las cookies son pequeños archivos de texto almacenados en su dispositivo. Las usamos para recordar sus preferencias de idioma y apariencia y para comprender el tráfico agregado de nuestro sitio web."
+      },
+      "which": {
+        "h": "2. Cookies que usamos",
+        "p": "sh_lang recuerda el idioma de interfaz elegido. sh_mode y sh_accent recuerdan sus preferencias de modo claro/oscuro y color. Todas son de primera parte, opcionales y caducan en un año."
+      },
+      "control": {
+        "h": "3. Gestionar las cookies",
+        "p": "Puede eliminar estas cookies en cualquier momento desde la configuración de su navegador. Al hacerlo, las preferencias de idioma y apariencia vuelven a sus valores predeterminados sin afectar a la funcionalidad del sitio."
+      }
+    }
+  },
+  "error": {
+    "code": "404",
+    "title": "Este canal no existe",
+    "text": "La página que busca fue movida, renombrada o nunca se emitió. Pruebe con la página de inicio.",
+    "back": "Volver al inicio"
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "nav": {
+    "features": "Özellikler",
+    "solutions": "Çözümler",
+    "pricing": "Fiyatlandırma",
+    "docs": "Dokümantasyon",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "cta": "Demo Talep Et"
+  },
+  "common": {
+    "changeLanguage": "Dili değiştir",
+    "accentColor": "Vurgu rengi",
+    "accent_violet": "Mor",
+    "accent_ocean": "Okyanus mavisi",
+    "accent_ember": "Kehribar",
+    "accent_forest": "Orman yeşili",
+    "toLight": "Açık moda geç",
+    "toDark": "Koyu moda geç",
+    "learnMore": "Daha fazla bilgi",
+    "getStarted": "Hemen başlayın",
+    "viewAll": "Tümünü gör",
+    "orderNow": "Hemen sipariş ver",
+    "backHome": "Ana sayfaya dön"
+  },
+  "hero": {
+    "badge": "StreamHive 4.0 — Çok dilli IPTV middleware",
+    "title": "Tüm IPTV işletmenizi",
+    "titleAccent": "tek bir kovandan yönetin",
+    "subtitle": "StreamHive eksiksiz bir IPTV/OTT yönetim platformudur: hat yönetimi, canlı TV, VOD, EPG, faturalama, bayi yönetimi ve analitik — her ekrandaki izleyicilere altı dilde hizmet verir.",
+    "primary": "Demo Talep Et",
+    "secondary": "Fiyatları Gör",
+    "statSubscribers": "Hizmet verilen uç abone",
+    "statChannels": "Yönetilen canlı kanal",
+    "statUptime": "Platform çalışma süresi",
+    "statLatency": "Kanal değiştirme süresi"
+  },
+  "home": {
+    "featuresTitle": "Bir TV operatörünün ihtiyaç duyduğu her şey",
+    "featuresSubtitle": "Sinyal alımından oynatmaya kadar IPTV operasyonunuzun her katmanı, kanıtlanmış güvenilir bir platformda çalışır.",
+    "solutionsTitle": "Her ekran ve her işletme için tasarlandı",
+    "solutionsSubtitle": "Dünyanın dört bir yanındaki oteller, ulaşım şirketleri, ISP'ler ve yayıncılar ölçekli televizyon hizmeti için StreamHive'a güveniyor."
+  },
+  "features": {
+    "title": "Tasarımdan zengin özellikler",
+    "subtitle": "Modern bir televizyon hizmetini başlatmak, işletmek ve büyütmek için eksiksiz bir araç seti.",
+    "list": {
+      "middleware": {
+        "title": "IPTV Middleware",
+        "text": "Platformunuzun kalbi. Tüm uygulamalar ve set-top kutularında aboneleri, paketleri, cihazları ve yetkileri yönetin."
+      },
+      "live": {
+        "title": "Canlı TV & Multicast",
+        "text": "Ultra hızlı kanal değiştirme, canlı yayını duraklatma ve geri izleme; sağlam HLS/DASH dağıtımı üzerine inşa edilmiştir."
+      },
+      "vod": {
+        "title": "İstediğin Yerde İzle (VOD)",
+        "text": "Seçilmiş kütüphaneler, kategoriler, kiralama pencereleri ve otomatik kod dönüştürme ile dizi yönetimi."
+      },
+      "epg": {
+        "title": "EPG & Geri İzleme",
+        "text": "14 günlük öngörülü zengin elektronik program rehberi, geri izleme arşivleri ve dile göre otomatik metadata eşlemesi."
+      },
+      "transcoding": {
+        "title": "Bulut Kod Dönüştürme",
+        "text": "240p'den 4K HDR'ye uyarlanabilir bit hızı kademeleri. Donanım hızlandırmalı çiftlikler faturanızla değil, kitlenizle ölçeklenir."
+      },
+      "drm": {
+        "title": "DRM & Korsanlıkla Mücadele",
+        "text": "Widevine, PlayReady ve FairPlay koruması; su izleme ve gerçek zamanlı akış izleme ile sızıntıyı durdurur."
+      },
+      "billing": {
+        "title": "Faturalama & Ödemeler",
+        "text": "Stripe, PayPal ve yerel ödeme yöntemleri. Otomatik faturalama, vergiler, paketler, promosyonlar ve tahsilat takibi dahil."
+      },
+      "resellers": {
+        "title": "Bayi Yönetimi",
+        "text": "Kredi, markalaşma ve panel bazlı yetkilerle çok seviyeli bayi ağaçları. Bordroyla değil, ortaklarla büyüyün."
+      },
+      "analytics": {
+        "title": "Gerçek Zamanlı Analitik",
+        "text": "Kayıp tahmini, kanal ısı haritaları, QoS panoları ve sıradaki düzeltmenizi söyleyen dışa aktarılabilir raporlar."
+      },
+      "clients": {
+        "title": "Uygulamalar & Set-Top Kutuları",
+        "text": "Android, iOS, Smart TV ve tüm büyük STB yonga setleri için white-label uygulamalar — tek kod tabanı, yerel performans."
+      },
+      "api": {
+        "title": "Açık REST API",
+        "text": "Her şeyi otomatikleştirin. 300'den fazla belgelenmiş uç nokta, webhook'lar ve PHP, Go ile Python entegratörleri için SDK'lar."
+      },
+      "security": {
+        "title": "Önce Güvenlik",
+        "text": "Uçtan uca şifreleme, SSO, denetim izleri ve kiracı başına izolasyon. Düzenli üçüncü taraf sızma testleri."
+      }
+    }
+  },
+  "solutions": {
+    "title": "Her operatör için çözümler",
+    "subtitle": "Tek bir platform, sektörünüze göre uyarlanmış. StreamHive'ın nasıl uyduğunu görmek için senaryonuzu seçin.",
+    "list": {
+      "hotels": {
+        "title": "Otel & Tatil Köyleri",
+        "short": "Personel yükü sıfır olan oda içi eğlence ve markalı karşılama ekranları.",
+        "long": "Her konuğa beş yıldızlı bir TV deneyimi sunun. StreamHive canlı TV'yi, otel bilgi kanallarını ve oda ekranlarına yayınlamayı teslim eder — hepsi mevcut personeliniz tarafından tek bir panelden yönetilir.",
+        "bullets": [
+          "Konuğun adını ve çıkış bilgilerini içeren markalı karşılama sayfası",
+          "Spa, restoran ve etkinlikler için bilgi kanalları",
+          "Set-top kutusu gerekmez — oda TV'lerinde ve telefonlarda çalışır",
+          "PMS sisteminizden günlük otomatik provisioning"
+        ]
+      },
+      "airlines": {
+        "title": "Havayolları",
+        "short": "Çevrimdışı içerik önbellekleriyle kabin Wi-Fi üzerinden yerleşik akış.",
+        "long": "Premium eğlenceyi uçağa taşıyın. StreamHive seçilmiş kütüphaneleri uçakta önbelleğe alır ve kabin Wi-Fi üzerinden yolcu cihazlarına sunar — inişten sonra uçuş bazlı rapor sunar.",
+        "bullets": [
+          "Rota ve mevsime göre yerde senkronize edilen içerik rotasyonu",
+          "Yolcu cihazları ekran olarak — koltuk arkası donanım yok",
+          "Kabin ekibi dillerinize uygun çok dilli arayüz",
+          "Her inişten sonra teslim edilen kullanım analitiği"
+        ]
+      },
+      "hospitals": {
+        "title": "Hastaneler & Klinikler",
+        "short": "Güvenli ve gizli şekilde teslim edilen hasta eğlence ve infotainment.",
+        "long": "Hastaları rahat ve bilgilendirilmiş tutun. StreamHive yatak başı ekranlara eğlenceyi, hastane bilgi kanallarını, eğitim içeriklerini ve gevşeme kütüphanelerini birlikte teslim eder.",
+        "bullets": [
+          "Gevşeme, meditasyon ve çocuk güvenli içerik paketleri",
+          "Ziyaret saatleri ve hizmetler için hastane bilgi kanalları",
+          "KVKK uyumlu, servis başına izole edilmiş yapılandırma",
+          "Mevcut yatak başı ekranlar ve Wi-Fi üzerinden çalışır"
+        ]
+      },
+      "isps": {
+        "title": "ISP TV Platformları",
+        "short": "Fiber ve kablosuz ISP'ler için operatör sınıfı IPTV, tamamen markalanabilir.",
+        "long": "Üçlü paketinize televizyon ekleyin. StreamHive, ISP'lere multicast dağıtım, BRAS/AAA sistemlerinden abone provisioning ve tam white-label destekli operatör sınıfı bir IPTV platformu sunar.",
+        "bullets": [
+          "Kendi ağınız üzerinden multicast ve unicast dağıtım",
+          "RADIUS, DHCP option 60 ve TR-069 için provisioning kancaları",
+          "Bayi ağınız için bayi paneli",
+          "SLA destekli %99,99 çalışma süresi mimarisi"
+        ]
+      },
+      "cruise-ships": {
+        "title": "Kruvaziyer Gemileri",
+        "short": "Uydu dostu bant genişliği şekillendirmeyle denizde eğlence.",
+        "long": "Okyanusu aşarak yolcuları memnun edin. StreamHive, bant genişliği duyarlı dağıtım modları, liman uğraklarında uydu içerik senkronizasyonu ve geminiz için güverte bazlı kanal listeleriyle gelir.",
+        "bullets": [
+          "Her limanda senkronize edilen çevrimdışı öncelikli kütüphaneler",
+          "Uydu bağlantıları için bant genişliği şekillendirme",
+          "Güverte ve yolcu sınıfına göre kanal listeleri",
+          "Güvenli, seçilmiş paketlerle çocuk alanları"
+        ]
+      },
+      "buses": {
+        "title": "Otobüsler & Kapsüler",
+        "short": "Araç Wi-Fi üzerinden araç içi eğlence ve şoför tarafı kontrol.",
+        "long": "Yolculuk süresini kaliteli zamana dönüştürün. Yolcular, araç Wi-Fi üzerinden kendi cihazlarında film, müzik ve canlı radyo izlerken şoför bir panelden tek dokunuşla kontrol eder.",
+        "bullets": [
+          "Tek dokunuşla servis kontrolü içeren şoför panosu",
+          "Araç Wi-Fi üzerinden ekran olarak yolcu cihazları",
+          "Güzergah bazlı içerik ve bölgesel lisanslama",
+          "Operatörler için filo bazlı raporlama"
+        ]
+      },
+      "apartments": {
+        "title": "Apartmanlar & Gayrimenkul",
+        "short": "Bina geneli TV hizmet olarak — kiraları kapatan bir avantaj.",
+        "long": "Sakinelere özel bir şey sunun. StreamHive, mevcut ağ üzerinden daire başına faturalama ve mülk ekibinizin kontrol ettiği markalı bir portalla bina geneli televizyon çalıştırır.",
+        "bullets": [
+          "Daha fazla kira sözleşmesi kapatan dahil TV paketleri",
+          "Daire bazlı yetkilendirme ve isteğe bağlı yükseltmeler",
+          "Yönetim için bina duyuru kanalı",
+          "Ortak alanlarda sıfır donanım"
+        ]
+      },
+      "news-agencies": {
+        "title": "Haber Ajansları & Yayıncılar",
+        "short": "İç izleme duvarları ve iştirak sinyallerinin dağıtımı.",
+        "long": "Dünyayı izleyin ve dağıtın. StreamHive yüzlerce uydu ve IP sinyalini alır, haber merkezlerine anında kanal değiştirme duvarları sunar ve markalı akışları iştiraklere dağıtır.",
+        "bullets": [
+          "Saniyenin kesirleriyle kanal değiştirmeli izleme duvarları",
+          "Yedeklemeli uydu ve IP alımı",
+          "Kiracı bazlı markalaşmayla iştirak dağıtımı",
+          "Aranabilir transkriptli arşiv"
+        ]
+      },
+      "homes": {
+        "title": "Ev Aboneleri",
+        "short": "OTT operatörleri ve içerik sahipleri için doğrudan tüketiciye televizyon.",
+        "long": "Kendi akış TV hizmetinizi başlatın. StreamHive kayıt, ödeme, uygulama ve desteği yönetir; siz kitleinizin sevdiği içeriğe odaklanırsınız.",
+        "bullets": [
+          "Anında aktivasyonlu self servis kayıt",
+          "Aylık, yıllık ve ön ödemeli abonelik modelleri",
+          "Aile profilleri ve ebeveyn kontrolleri",
+          "Birinci günden TV, mobil, web ve STB uygulamaları"
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "title": "Basit, ölçeklenebilir fiyatlandırma",
+    "subtitle": "Küçük başlayın, sınırsız büyüyün. Tüm planlar her modülü içerir — gizli kademe yok.",
+    "period": "/ay",
+    "custom": "Özel",
+    "customNote": "Hacim fiyatlandırması, SLA'lar ve yerinde kurulum seçenekleri",
+    "popular": "En popüler",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "€99",
+        "desc": "Pazarını doğrulayan yeni operatörler için",
+        "features": [
+          "1.000'e kadar abone",
+          "50 canlı kanal + temel VOD",
+          "1 bayi paneli",
+          "White-label uygulamalar (1 platform)",
+          "E-posta desteği, 24 saat yanıt"
+        ]
+      },
+      "growth": {
+        "name": "Growth",
+        "price": "€499",
+        "desc": "Hızla ölçeklenen köklü operatörler için",
+        "features": [
+          "25.000'e kadar abone",
+          "Sınırsız kanal ve VOD kütüphanesi",
+          "10 bayi paneli",
+          "White-label uygulamalar (tüm platformlar)",
+          "Bulut kod dönüştürme dahil",
+          "Öncelikli destek, 4 saat yanıt"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "",
+        "desc": "ISP'ler, telekomlar ve ulusal platformlar için",
+        "features": [
+          "Sınırsız abone ve kanal",
+          "Sınırsız bayi ağacı",
+          "Yerinde kurulum veya özel bulut",
+          "DRM ve korsanlıkla mücadele paketi",
+          "Adanmış hesap yöneticisi",
+          "Ceza ödemeli %99,99 SLA"
+        ]
+      }
+    },
+    "faqTitle": "Sıkça sorulan sorular",
+    "faq": {
+      "q1": "Başka bir platformdan geçebilir miyim?",
+      "a1": "Evet. Geçiş ekibimiz tüm büyük IPTV panellerinden aboneleri, kanal listelerini, VOD kütüphanelerini ve EPG verilerini içe aktarır — genellikle bir iş günü içinde ve Growth ve üzeri planlarda ek ücret olmadan.",
+      "q2": "Kanal başına mı yoksa abone başına mı ücret alıyorsunuz?",
+      "a2": "Hiçbiri. Planlar aktif abonelere dayanır; Growth ve Enterprise'da kanal sayısı sınırsızdır. Büyüyen kanal listeniz için asla kanal başına vergi ödemezsiniz.",
+      "q3": "Platform gerçekten altı dilde mi mevcut?",
+      "a3": "Evet — İngilizce, Almanca, Türkçe, Çince, İspanyolca ve Rusça; hem yönetim panelinde hem de son kullanıcı uygulamalarında. Talep üzerine daha fazla dil eklenebilir.",
+      "q4": "Planımı aşarsam ne olur?",
+      "a4": "Yükseltmeler anında ve orantılı olarak uygulanır. Pek çok operatör Starter ile başlar ve ilk çeyrekte Growth'a geçer — verileriniz, kanal listeleriniz ve uygulamalarınız olduğu gibi kalır."
+    }
+  },
+  "docs": {
+    "title": "Dokümantasyon",
+    "subtitle": "StreamHive'ı işletmek, entegre etmek ve genişletmek için ihtiyacınız olan her şey.",
+    "modulesTitle": "Platform modülleri",
+    "readDoc": "Dokümanları oku",
+    "modules": {
+      "lines": {
+        "title": "Hat Yönetimi",
+        "short": "Her abone hattını oluşturun, izleyin ve sorun giderin.",
+        "long": "Hatlar modülü, operatörlerin gününün büyük kısmını geçirdiği yerdir. Milyonlarca hat üzerinde anında arama, yaygın görevler için toplu işlemler ve bağlantı kalitesi, cihaz geçmişi ile akış kullanımını gösteren hat bazlı teşhis sunar.",
+        "bullets": [
+          "Milyonlarca hat üzerinde anında arama",
+          "Toplu etkinleştirme, devre dışı bırakma, uzatma ve taşıma",
+          "Hat bazlı teşhis ve bağlantı günlükleri",
+          "Otomatik sona erme ve cazibe dönemi politikaları"
+        ]
+      },
+      "vod": {
+        "title": "VOD & Diziler",
+        "short": "Kütüphaneler, kategoriler, görseller ve kiralama mantığı.",
+        "long": "Bir kez yükleyin, her yerde yayınlayın. VOD modülü kaynak dosyaları alır, kod dönüştürme kademesini tetikler, görsel ve metadata'yı getirir, kategorilere ve dizilere yayınlar — içerik satıyorsanız kiralama pasteri ve fiyatlandırmayla birlikte.",
+        "bullets": [
+          "4K'ya kadar otomatik kod dönüştürme kademeleri",
+          "TMDB görsel ve metadata otomatik getirme",
+          "Kiralama pencereleri ve başlık bazlı fiyatlandırma",
+          "FTP, S3 ve RSS akışlarından içe aktarma"
+        ]
+      },
+      "epg": {
+        "title": "EPG & Metadata",
+        "short": "Çok dilli program rehberleri ve geri izleme arşivleri.",
+        "long": "EPG modülü XMLTV ve Gracenote akışlarını kanal listenize eşler, sağlayıcılar arası türleri normalize eder ve desteklenen her dilde 14 günlük bir rehber yayınlar. Geri izleme arşivleri canlı akıştan otomatik olarak oluşturulur.",
+        "bullets": [
+          "XMLTV ve Gracenote alımı",
+          "Dil bazlı rehber yayınlama",
+          "Kanal bazlı otomatik geri izleme arşivi",
+          "Özel etkinlikler ve kanal düzeltmeleri"
+        ]
+      },
+      "clients": {
+        "title": "Uygulamalar & Cihazlar",
+        "short": "Mağazalara uygulama yayınlayın ve cihaz filolarını yönetin.",
+        "long": "Mobil ekip olmadan yerel uygulamalar çıkarın. Clients modülü markanıza göre white-label uygulamalar oluşturur, mağazalara sizin adınıza sunar ve kurulu her cihazı takip eder — çalınan STB'ler için uzaktan kapatma anahtarıyla.",
+        "bullets": [
+          "Android, iOS ve Smart TV için white-label derlemeler",
+          "Mağaza başvuruları sizin adınıza yapılır",
+          "Uzaktan kapatma anahtarlı cihaz kayıt defteri",
+          "STB yazılımı ve uygulama otomatik güncelleme"
+        ]
+      },
+      "billing": {
+        "title": "Faturalama",
+        "short": "Paketler, faturalar, ödemeler ve tahsilat.",
+        "long": "Faturalama modülü yetkileri gelire dönüştürür. Deneme ve promosyonlu paketler tanımlayın, Stripe veya yerel yöntemlerle tahsilat yapın, müşterinin dilinde fatura düzenleyin ve başarısız yenilemeler için tahsilatı otomatikleştirin.",
+        "bullets": [
+          "Deneme, promosyon ve istifleme destekli paketler",
+          "Stripe, PayPal ve 20'den fazla yerel yöntem",
+          "Çok dilli faturalama ve vergiler",
+          "Akıllı yeniden deneme takvimiyle tahsilat"
+        ]
+      },
+      "resellers": {
+        "title": "Bayiler",
+        "short": "Kredi ve markalaşmalı çok seviyeli partner panelleri.",
+        "long": "Ortakları bir satış gücüne dönüştürün. Her bayi; markanız, kredi bakiyesi ve verdiğiniz tam yetkilerle izole edilmiş bir panel alır — tam hat yönetiminden salt okunur satış görünümlerine kadar.",
+        "bullets": [
+          "Sınırsız bayi derinlik seviyeleri",
+          "Seviyeler arası kredi bazlı faturalama",
+          "Panel bazlı markalaşma ve dil",
+          "İnce taneli yetki matrisi"
+        ]
+      },
+      "security": {
+        "title": "Güvenlik",
+        "short": "DRM, korsanlıkla mücadele ve erişim kontrolü.",
+        "long": "Güvenlik hem içeriği hem de güveni korur. Güvenlik modülü akışları Widevine, PlayReady ve FairPlay'e sarar, sızıntı tespiti için trafiği parmak iziyle işaretler ve paneldeki her ayrıcalıklı eylemin denetim izini tutar.",
+        "bullets": [
+          "Widevine, PlayReady ve FairPlay DRM",
+          "Su izleme ve sızıntı kaynağı takibi",
+          "Personel için SSO, 2FA ve IP politikaları",
+          "Panel eylemlerinin tam denetim izi"
+        ]
+      },
+      "operations": {
+        "title": "Operasyonlar",
+        "short": "Sağlık, uyarılar ve kapasite panoları.",
+        "long": "Müşterilerinizden önce siz bilin. Operasyonlar modülü her uç noktadan QoS metriklerini toplar, yoğun saatlerden önce kapasite baskısını öngörür ve doğru nöbetçi mühendisi bağlamıyla uyarır.",
+        "bullets": [
+          "Tüm uçlarda gerçek zamanlı QoS",
+          "Yoğun dönemlerden önce kapasite tahmini",
+          "Nöbet çizelgelerine uyarı yönlendirme",
+          "Olay sonrası raporlar otomatik oluşturulur"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "Televizyonu sürekli vızırdatıyoruz",
+    "subtitle": "Her operatör için IPTV'yi basitleştirme misyonundaki bir akış mühendisleri ekibi.",
+    "storyTitle": "Hikayemiz",
+    "story": "StreamHive, eski IPTV panellerini bakımını yapan üç mühendisin operatörlerin daha iyisini hak ettiğine karar verdiği 2019'da başladı. Bugün platform, tek antenli apartman ağlarından ulusal telekomlara 40 ülkede operatörlere hizmet veriyor.",
+    "valuesTitle": "İnandığımız şeyler",
+    "values": {
+      "operators": {
+        "title": "Önce operatörler",
+        "text": "Her özellik bir operatör sorunuyla başlar. Size zaman kazandırmıyorsa veya para kazandırmıyorsa, onu yapmayız."
+      },
+      "honest": {
+        "title": "Dürüst fiyatlandırma",
+        "text": "Kanal başına vergi yok, gizli kademe yok, sürpriz fatura yok. Gördüğünüz fiyat, ödediğiniz fiyattır."
+      },
+      "openness": {
+        "title": "Varsayılan olarak açık",
+        "text": "Açık API'ler, dışa aktarılabilir veriler ve kilitlenme yok. Ayrılmak kalmak kadar kolay olmalı — neredeyse kimse ayrılmıyor ama."
+      }
+    }
+  },
+  "contact": {
+    "title": "Ekibimizle konuşun",
+    "subtitle": "Projenizden bahsedin, bir iş günü içinde yanıt verelim.",
+    "infoTitle": "İletişim bilgileri",
+    "email": "E-posta gönderin",
+    "phone": "Bizi arayın",
+    "hq": "Merkez",
+    "formTitle": "Mesaj gönder",
+    "name": "Adınız",
+    "emailField": "E-posta adresi",
+    "company": "Şirket",
+    "topic": "Konu",
+    "topics": {
+      "demo": "Demo talebi",
+      "pricing": "Fiyat sorusu",
+      "migration": "Geçiş yardımı",
+      "partnership": "Ortaklık",
+      "other": "Diğer"
+    },
+    "message": "Mesajınız",
+    "send": "Mesajı gönder",
+    "success": "Teşekkürler! Mesajınız gönderildi — kısa süre içinde size döneceğiz."
+  },
+  "checkout": {
+    "title": "Ödeme",
+    "subtitle": "TV platformunuzu başlatmaya bir adım kaldı.",
+    "summary": "Sipariş özeti",
+    "period": "aylık faturalandırılır",
+    "pay": "Şimdi güvenli ödeyin",
+    "note": "Ödemeler Stripe tarafından işlenir. Paketinizi dilediğiniz zaman faturalama panelinden iptal edebilir veya değiştirebilirsiniz."
+  },
+  "cta": {
+    "title": "TV platformunuzu başlatmaya hazır mısınız?",
+    "text": "StreamHive ile televizyon yayınlayan yüzlerce operatöre katılın. Kişisel bir demo 30 dakika sürer — hiçbir taahhüt yok.",
+    "contact": "Demo Talep Et",
+    "pricing": "Fiyatları Gör"
+  },
+  "footer": {
+    "tagline": "İşini ciddiye alan operatörler için çok dilli IPTV yönetim platformu.",
+    "product": "Ürün",
+    "company": "Şirket",
+    "language": "Dil",
+    "terms": "Hizmet Şartları",
+    "cookies": "Çerez Politikası",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "terms": {
+    "title": "Hizmet Şartları",
+    "updated": "Son güncelleme: Kasım 2026",
+    "sections": {
+      "intro": {
+        "h": "1. Şartların kabulü",
+        "p": "StreamHive platformuna erişerek veya kullanarak bu Hizmet Şartları ve tüm geçerli yasalara bağlı kalmayı kabul etmiş olursunuz. Şartların herhangi bir bölümünü onaylamıyorsanız hizmeti kullanmayın."
+      },
+      "service": {
+        "h": "2. Hizmetin tanımı",
+        "p": "StreamHive, abonelik esasına dayalı IPTV/OTT içerik yönetim yazılımı sağlar. Özellikler ve kapasite satın alınan plana bağlıdır. Hizmeti önceden haber vermeksizin sürekli iyileştirebilir veya değiştirebiliriz."
+      },
+      "accounts": {
+        "h": "3. Operatör sorumlulukları",
+        "p": "Operatörler, kendi bölgesinde dağıtılan içeriklerin yasallığından, abonelerinin etkinliklerinden ve panel hesap bilgilerinin güvenliğinden sorumludur. Panel erişiminin paylaşılması yasaktır."
+      },
+      "billing": {
+        "h": "4. Faturalama ve sonlandırma",
+        "p": "Abonelikler iptal edilene kadar her dönem otomatik yenilenir. İptaller, ödenen dönemin sonunda geçerli olur. Geciken hesaplar bir cazibe dönemine girer; sonrasında hizmet askıya alınır."
+      }
+    }
+  },
+  "cookies": {
+    "title": "Çerez Politikası",
+    "updated": "Son güncelleme: Kasım 2026",
+    "sections": {
+      "what": {
+        "h": "1. Çerezler nedir",
+        "p": "Çerezler, cihazınızda saklanan küçük metin dosyalarıdır. Dil ve görünüm tercihlerinizi hatırlamak ve sitemizdeki toplu trafiği anlamak için kullanıyoruz."
+      },
+      "which": {
+        "h": "2. Kullandığımız çerezler",
+        "p": "sh_lang seçtiğiniz arayüz dilini hatırlar. sh_mode ve sh_accent açık/koyu ve renk tercihlerinizi hatırlar. Hepsi birinci taraf, isteğe bağlı ve bir yıl içinde sona erer."
+      },
+      "control": {
+        "h": "3. Çerezleri yönetme",
+        "p": "Bu çerezleri dilediğiniz zaman tarayıcı ayarlarından temizleyebilirsiniz. Temizlendiğinde dil ve görünüm tercihleri varsayılana döner; site işlevselliği etkilenmez."
+      }
+    }
+  },
+  "error": {
+    "code": "404",
+    "title": "Bu kanal mevcut değil",
+    "text": "Aradığınız sayfa taşınmış, yeniden adlandırılmış veya hiç yayınlanmamış olabilir. Ana sayfayı deneyin.",
+    "back": "Ana sayfaya dön"
+  }
+}
