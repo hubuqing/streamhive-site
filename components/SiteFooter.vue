@@ -1,8 +1,7 @@
 <script setup lang="ts">
-const { t } = useI18n()
+const { t, locales } = useI18n()
 const localePath = useLocalePath()
 const switchLocalePath = useSwitchLocalePath()
-const { locales } = useI18n()
 
 const year = new Date().getFullYear()
 </script>
@@ -13,10 +12,11 @@ const year = new Date().getFullYear()
       <div class="footer-brand">
         <div class="brand">
           <svg class="brand-logo" viewBox="0 0 32 32" fill="none" aria-hidden="true">
-            <path d="M16 2l12 7v14l-12 7-12-7V9l12-7z" stroke="var(--accent)" stroke-width="2" />
-            <path d="M12 11l9 5-9 5V11z" fill="var(--accent)" />
+            <rect x="4" y="7" width="24" height="16" rx="3" stroke="var(--accent)" stroke-width="2" />
+            <path d="M12 12.5l6 3.5-6 3.5v-7z" fill="var(--accent)" />
+            <path d="M4 26h7M21 26h7" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" />
           </svg>
-          <span class="brand-name">Stream<b>Hive</b></span>
+          <span class="brand-name">Ca<b>stella</b></span>
         </div>
         <p class="footer-tagline">{{ t('footer.tagline') }}</p>
       </div>
@@ -25,8 +25,7 @@ const year = new Date().getFullYear()
         <h4>{{ t('footer.product') }}</h4>
         <NuxtLink :to="localePath('/features')">{{ t('nav.features') }}</NuxtLink>
         <NuxtLink :to="localePath('/solutions')">{{ t('nav.solutions') }}</NuxtLink>
-        <NuxtLink :to="localePath('/pricing')">{{ t('nav.pricing') }}</NuxtLink>
-        <NuxtLink :to="localePath('/docs')">{{ t('nav.docs') }}</NuxtLink>
+        <NuxtLink :to="localePath('/integrations')">{{ t('nav.integrations') }}</NuxtLink>
       </div>
 
       <div class="footer-col">
@@ -50,7 +49,7 @@ const year = new Date().getFullYear()
     </div>
 
     <div class="footer-bottom">
-      <span>© {{ year }} StreamHive Labs Ltd. {{ t('footer.rights') }}</span>
+      <span>© {{ year }} Castella Hospitality Technologies Ltd. {{ t('footer.rights') }}</span>
       <div class="footer-legal">
         <NuxtLink :to="localePath('/terms-of-service')">{{ t('footer.terms') }}</NuxtLink>
         <NuxtLink :to="localePath('/cookie-policy')">{{ t('footer.cookies') }}</NuxtLink>

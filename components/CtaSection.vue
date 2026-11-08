@@ -12,8 +12,8 @@ const localePath = useLocalePath()
         <NuxtLink :to="localePath('/contact')" class="btn btn-primary btn-lg">
           {{ t('cta.contact') }}
         </NuxtLink>
-        <NuxtLink :to="localePath('/pricing')" class="btn btn-ghost btn-lg">
-          {{ t('cta.pricing') }}
+        <NuxtLink :to="localePath('/features')" class="btn btn-ghost btn-lg">
+          {{ t('cta.explore') }}
         </NuxtLink>
       </div>
     </div>

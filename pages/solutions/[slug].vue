@@ -3,19 +3,21 @@ const { t, tm } = useI18n()
 const localePath = useLocalePath()
 const route = useRoute()
 
-const solutionKeys = [
-  'hotels', 'airlines', 'hospitals', 'isps', 'cruise-ships',
-  'buses', 'apartments', 'news-agencies', 'homes'
-]
+const SOLUTION_KEYS = ['groups', 'independent', 'resorts', 'boutique', 'apartments', 'wellness']
+const ICON_MAP: Record<string, string> = {
+  groups: 'groups',
+  independent: 'hotels',
+  resorts: 'resorts',
+  boutique: 'boutique',
+  apartments: 'apartments',
+  wellness: 'wellness'
+}
 
 const slug = computed(() => route.params.slug as string)
 
 definePageMeta({
   validate: (route) => {
-    const keys = [
-      'hotels', 'airlines', 'hospitals', 'isps', 'cruise-ships',
-      'buses', 'apartments', 'news-agencies', 'homes'
-    ]
+    const keys = ['groups', 'independent', 'resorts', 'boutique', 'apartments', 'wellness']
     return keys.includes(route.params.slug as string)
   }
 })
@@ -31,7 +33,7 @@ const bullets = computed(() => {
 <template>
   <div>
     <section class="page-hero">
-      <div class="card-icon page-hero-icon"><AppIcon :name="slug" /></div>
+      <div class="card-icon page-hero-icon"><AppIcon :name="ICON_MAP[slug] || 'tv'" /></div>
       <h1>{{ t(`solutions.list.${slug}.title`) }}</h1>
       <p>{{ t(`solutions.list.${slug}.short`) }}</p>
     </section>

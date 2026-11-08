@@ -2,8 +2,11 @@ node_modules
 .nuxt
 .output
 .data
+.dev.vars
 dist
 .env
 .DS_Store
 logs
 *.log
+.wrangler
+.codeartsdoer

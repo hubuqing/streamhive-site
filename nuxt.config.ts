@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/i18n'],
   app: {
     head: {
-      titleTemplate: '%s · StreamHive',
+      titleTemplate: '%s · Castella',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' }
@@ -29,6 +29,6 @@ export default defineNuxtConfig({
       redirectOn: 'root',
       fallbackLocale: 'en'
     },
-    baseUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://streamhive.example.com'
+    baseUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://castella.example.com'
   }
 })

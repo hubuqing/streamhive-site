@@ -711,6 +711,105 @@ a {
   width: 100%;
 }
 
+/* ---------- Trust wall / Integrations / Testimonial ---------- */
+
+.trust-wall {
+  text-align: center;
+}
+
+.trust-title {
+  color: var(--text-3);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 20px;
+}
+
+.trust-brands {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px 42px;
+}
+
+.trust-brands span {
+  color: var(--text-3);
+  font-weight: 600;
+  font-size: 1.02rem;
+  letter-spacing: 0.02em;
+  opacity: 0.8;
+}
+
+.gain-value {
+  font-size: 1.45rem;
+  letter-spacing: -0.02em;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.integration-wall {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.integration-chip {
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-2);
+  font-weight: 600;
+  font-size: 0.92rem;
+  transition: var(--transition);
+}
+
+.integration-chip:hover {
+  border-color: var(--accent-glow);
+  color: var(--accent);
+}
+
+.partner-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px;
+}
+
+.partner-chips .integration-chip {
+  font-size: 0.82rem;
+  padding: 6px 14px;
+}
+
+.testimonial {
+  text-align: center;
+}
+
+.testimonial blockquote {
+  font-size: clamp(1.1rem, 2.2vw, 1.4rem);
+  line-height: 1.6;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.testimonial figcaption {
+  margin-top: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.testimonial figcaption strong {
+  font-weight: 700;
+}
+
+.testimonial figcaption span {
+  color: var(--text-3);
+  font-size: 0.9rem;
+}
+
 /* ---------- CTA ---------- */
 
 .cta-section {
@@ -1002,6 +1101,25 @@ a {
   text-align: center;
 }
 
+.form-error {
+  padding: 12px 14px;
+  border-radius: 11px;
+  background: rgba(239, 68, 68, 0.12);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  color: #ef4444;
+  font-size: 0.92rem;
+  margin-bottom: 16px;
+}
+
+.hp-field {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
 /* ---------- Checkout ---------- */
 
 .checkout-card {
@@ -1160,6 +1278,105 @@ a {
   font-weight: 700;
 }
 
+/* ---------- Product imagery ---------- */
+
+.media-frame {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  box-shadow: var(--shadow);
+  line-height: 0;
+}
+
+.media-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.media-frame::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.06);
+  pointer-events: none;
+}
+
+.hero-visual {
+  position: relative;
+  max-width: 1168px;
+  margin: 60px auto 0;
+  padding: 0 24px;
+}
+
+.hero-visual::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: -40px;
+  transform: translateX(-50%);
+  width: 72%;
+  height: 180px;
+  background: radial-gradient(closest-side, var(--accent-glow), transparent 72%);
+  opacity: var(--hero-glow-op);
+  filter: blur(48px);
+  pointer-events: none;
+}
+
+.hero-visual .media-frame {
+  aspect-ratio: 16 / 9;
+}
+
+.showcase-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+}
+
+.showcase-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
+}
+
+.showcase-card .media-frame {
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  aspect-ratio: 4 / 3;
+  border-bottom: 1px solid var(--border);
+}
+
+.showcase-body {
+  padding: 24px 28px 30px;
+}
+
+.showcase-body h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-bottom: 8px;
+}
+
+.showcase-body p {
+  color: var(--text-2);
+  font-size: 0.94rem;
+}
+
+.page-hero-visual {
+  max-width: 1128px;
+  margin: 44px auto 0;
+  padding: 0 24px;
+}
+
+.page-hero-visual .media-frame {
+  aspect-ratio: 2 / 1;
+}
+
 /* ---------- Responsive ---------- */
 
 @media (max-width: 1024px) {
@@ -1211,6 +1428,18 @@ a {
   .grid-2,
   .contact-grid {
     grid-template-columns: 1fr;
+  }
+
+  .showcase-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-visual {
+    margin-top: 40px;
+  }
+
+  .page-hero-visual {
+    margin-top: 30px;
   }
 
   .footer-grid {

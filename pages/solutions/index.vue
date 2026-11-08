@@ -4,10 +4,15 @@ const localePath = useLocalePath()
 
 useSeoMeta({ title: t('solutions.title') })
 
-const solutionKeys = [
-  'hotels', 'airlines', 'hospitals', 'isps', 'cruise-ships',
-  'buses', 'apartments', 'news-agencies', 'homes'
-]
+const solutionKeys = ['groups', 'independent', 'resorts', 'boutique', 'apartments', 'wellness']
+const iconMap: Record<string, string> = {
+  groups: 'groups',
+  independent: 'hotels',
+  resorts: 'resorts',
+  boutique: 'boutique',
+  apartments: 'apartments',
+  wellness: 'wellness'
+}
 </script>
 
 <template>
@@ -26,7 +31,7 @@ const solutionKeys = [
             :to="localePath(`/solutions/${key}`)"
             class="card"
           >
-            <div class="card-icon"><AppIcon :name="key" /></div>
+            <div class="card-icon"><AppIcon :name="iconMap[key]" /></div>
             <h3>{{ t(`solutions.list.${key}.title`) }}</h3>
             <p>{{ t(`solutions.list.${key}.short`) }}</p>
           </NuxtLink>

@@ -11,8 +11,7 @@ watch(() => route.fullPath, () => {
 const links = computed(() => [
   { to: localePath('/features'), label: t('nav.features') },
   { to: localePath('/solutions'), label: t('nav.solutions') },
-  { to: localePath('/pricing'), label: t('nav.pricing') },
-  { to: localePath('/docs'), label: t('nav.docs') },
+  { to: localePath('/integrations'), label: t('nav.integrations') },
   { to: localePath('/about'), label: t('nav.about') },
   { to: localePath('/contact'), label: t('nav.contact') }
 ])
@@ -21,12 +20,13 @@ const links = computed(() => [
 <template>
   <header class="site-header">
     <div class="header-inner">
-      <NuxtLink :to="localePath('/')" class="brand" aria-label="StreamHive home">
+      <NuxtLink :to="localePath('/')" class="brand" aria-label="Castella home">
         <svg class="brand-logo" viewBox="0 0 32 32" fill="none" aria-hidden="true">
-          <path d="M16 2l12 7v14l-12 7-12-7V9l12-7z" stroke="var(--accent)" stroke-width="2" />
-          <path d="M12 11l9 5-9 5V11z" fill="var(--accent)" />
+          <rect x="4" y="7" width="24" height="16" rx="3" stroke="var(--accent)" stroke-width="2" />
+          <path d="M12 12.5l6 3.5-6 3.5v-7z" fill="var(--accent)" />
+          <path d="M4 26h7M21 26h7" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" />
         </svg>
-        <span class="brand-name">Stream<b>Hive</b></span>
+        <span class="brand-name">Ca<b>stella</b></span>
       </NuxtLink>
 
       <nav class="main-nav" aria-label="Main navigation">

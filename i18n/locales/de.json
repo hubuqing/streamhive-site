@@ -2,11 +2,10 @@
   "nav": {
     "features": "Funktionen",
     "solutions": "Lösungen",
-    "pricing": "Preise",
-    "docs": "Dokumentation",
+    "integrations": "Integrationen",
     "about": "Über uns",
     "contact": "Kontakt",
-    "cta": "Demo anfragen"
+    "cta": "Demo buchen"
   },
   "common": {
     "changeLanguage": "Sprache wechseln",
@@ -18,403 +17,235 @@
     "toLight": "Zum hellen Modus wechseln",
     "toDark": "Zum dunklen Modus wechseln",
     "learnMore": "Mehr erfahren",
-    "getStarted": "Jetzt starten",
-    "viewAll": "Alle ansehen",
-    "orderNow": "Jetzt bestellen",
     "backHome": "Zurück zur Startseite"
   },
   "hero": {
-    "badge": "StreamHive 4.0 — Mehrsprachige IPTV-Middleware",
-    "title": "Betreiben Sie Ihr gesamtes IPTV-Geschäft",
-    "titleAccent": "aus einem einzigen Bienenstock",
-    "subtitle": "StreamHive ist eine komplette IPTV/OTT-Managementplattform: Linienverwaltung, Live-TV, VOD, EPG, Abrechnung, Reseller und Analysen — in sechs Sprachen für Zuschauer auf jedem Bildschirm.",
-    "primary": "Demo anfragen",
-    "secondary": "Preise ansehen",
-    "statSubscribers": "Betreute Endabonnenten",
-    "statChannels": "Verwaltete Live-Kanäle",
-    "statUptime": "Plattform-Verfügbarkeit",
-    "statLatency": "Umschaltzeit pro Kanal"
+    "badge": "Hotelfernsehen neu gedacht",
+    "title": "Verwandeln Sie jedes Zimmer-Fernsehgerät",
+    "titleAccent": "in ein Fünf-Sterne-Erlebnis",
+    "subtitle": "Castella bringt Smart-TV-Apps, Casting, Streaming, Begrüßungsbildschirme und digitales Dining in Ihre Gästezimmer — verwaltet über eine Cloud-Plattform und in der Sprache jedes Gastes.",
+    "primary": "Demo buchen",
+    "secondary": "Funktionen entdecken",
+    "statRooms": "Ausgestattete Zimmer",
+    "statCountries": "Länder",
+    "statLanguages": "UI-Sprachen",
+    "statRating": "Steigerung der Gästezufriedenheit"
   },
   "home": {
-    "featuresTitle": "Alles, was ein TV-Anbieter braucht",
-    "featuresSubtitle": "Vom Signal-Eingang bis zur Wiedergabe: Jede Ebene Ihres IPTV-Betriebs läuft auf einer bewährten, zuverlässigen Plattform.",
-    "solutionsTitle": "Gebaut für jeden Bildschirm und jedes Geschäft",
-    "solutionsSubtitle": "Hotels, Verkehr, ISPs und Rundfunkanstalten weltweit vertrauen StreamHive für Fernsehen im großen Maßstab."
+    "trustTitle": "Vertraut von Hotels, die auf Details achten",
+    "featuresTitle": "Alles, was Ihr Zimmer-Fernseher kann",
+    "featuresSubtitle": "Eine Plattform ersetzt den gesamten Stapel: interaktives TV, Casting, Gästeservices und Upselling — auf dem Bildschirm, den Gäste ohnehin nutzen.",
+    "solutionsTitle": "Für jede Art von Unterkunft",
+    "solutionsSubtitle": "Vom Stadtboutique-Hotel bis zum Inselresort — Castella passt sich an, wie Ihre Gäste reisen.",
+    "integrationsTitle": "Harmoniert mit Ihrem bestehenden System",
+    "integrationsSubtitle": "Zertifizierte Integrationen mit den Systemen, die Ihr Hotel bereits einsetzt.",
+    "gainsTitle": "Mehr als ein hübscher Bildschirm",
+    "gainUpsellTitle": "+38 % Nebenerlöse",
+    "gainUpsellText": "Gäste bestellen Zimmerservice, Spa-Buchungen und Upgrades direkt am Fernseher — dem meistgesehenen Bildschirm im Zimmer.",
+    "gainSatisfactionTitle": "+27 % Gästezufriedenheit",
+    "gainSatisfactionText": "Schluss mit klobigen Hotel-TV-Menüs. Eine Oberfläche, die Gäste intuitiv beherrschen.",
+    "gainStaffTitle": "-45 % Anrufe an der Rezeption",
+    "gainStaffText": "Check-out, Rechnungen und FAQs werden auf dem Bildschirm beantwortet — Ihr Team konzentriert sich auf Gastfreundschaft.",
+    "testimonialQuote": "Castella hat unsere Zimmer-Fernseher von einer Beschwerdequelle in unseren besten Upselling-Kanal verwandelt. Gäste lieben es, und meine Rezeption atmet endlich auf.",
+    "testimonialName": "Claire Dubois",
+    "testimonialRole": "Generaldirektorin, Hôtel Lumière"
   },
   "features": {
-    "title": "Funktionsreich by Design",
-    "subtitle": "Ein vollständiges Werkzeugkasten zum Starten, Betreiben und Wachsen eines modernen Fernsehdienstes.",
+    "title": "Die komplette Hotelfernseh-Plattform",
+    "subtitle": "Jede Funktion verfolgt ein Ziel: einen besseren Aufenthalt — und ein besseres Ergebnis.",
     "list": {
-      "middleware": {
-        "title": "IPTV-Middleware",
-        "text": "Das Herzstück Ihrer Plattform. Verwalten Sie Abonnenten, Pakete, Geräte und Berechtigungen über alle Apps und Set-Top-Boxen hinweg."
+      "smarttv": {
+        "title": "Smart-TV-App",
+        "text": "Eine wunderschön marken gestaltete Oberfläche auf Samsung-, LG- und Philips-Smart-TVs — ohne Set-Top-Boxen, ohne Kabelchaos hinter dem Bildschirm."
       },
-      "live": {
-        "title": "Live-TV & Multicast",
-        "text": "Blitzschnelles Umschalten, Pause-Live-TV und Catch-up auf bewährter HLS/DASH-Auslieferung für absolut stabile Streams."
+      "casting": {
+        "title": "Casting & AirPlay",
+        "text": "Gäste streamen Netflix, YouTube und Spotify von ihren eigenen Geräten mit einem Tipp auf den Zimmer-Fernseher — ohne Anmeldung."
       },
-      "vod": {
-        "title": "Video on Demand",
-        "text": "Kuratierte Bibliotheken, Kategorien, Mietfenster und Serienverwaltung mit automatischer Transkodierung und Poster-Artwork."
+      "streaming": {
+        "title": "Streaming-Apps",
+        "text": "Vorinstalliertes Netflix, Prime Video, Disney+ und mehr — mit sicherer Zimmer-Anmeldung, die beim Check-out gelöscht wird."
       },
-      "epg": {
-        "title": "EPG & Catch-up",
-        "text": "Umfangreiche elektronische Programmzeitschrift mit 14-Tage-Vorschau, Catch-up-Archiven und automatischer Metadaten-Zuordnung pro Sprache."
+      "welcome": {
+        "title": "Begrüßungsbildschirm",
+        "text": "Jeden Gast namentlich in seiner Sprache begrüßen — mit Zimmernummer, WLAN-Code und Check-out-Details auf einen Blick."
       },
-      "transcoding": {
-        "title": "Cloud-Transkodierung",
-        "text": "Adaptive-Bitrate-Stufen von 240p bis 4K HDR. Hardwarebeschleunigte Farmen skalieren mit Ihrem Publikum, nicht mit Ihrer Rechnung."
+      "info": {
+        "title": "Info-Kanäle",
+        "text": "Hauskanäle für Frühstückszeiten, Spa-Angebote, Insidertipps und Notfallinfos — in Minuten aktualisiert, nicht in Tagen."
       },
-      "drm": {
-        "title": "DRM & Antipiraterie",
-        "text": "Widevine-, PlayReady- und FairPlay-Schutz mit Wasserzeichen und Echtzeit-Stream-Monitoring gegen Lecks."
+      "dining": {
+        "title": "Digitales Dining",
+        "text": "Bildmenüs mit Ein-Tipp-Zimmerservice, Weinkarten und Allergenfiltern, die verkaufen, während Gäste stöbern."
       },
-      "billing": {
-        "title": "Abrechnung & Zahlungen",
-        "text": "Stripe, PayPal und lokale Zahlungsmethoden. Automatische Rechnungen, Steuern, Pakete, Aktionen und Mahnwesen inklusive."
+      "upsell": {
+        "title": "Upselling-Engine",
+        "text": "Late Check-out, Zimmer-Upgrades und Spa-Pakete im richtigen Moment angeboten — direkt auf die Zimmerrechnung gebucht."
       },
-      "resellers": {
-        "title": "Reseller-Verwaltung",
-        "text": "Reseller-Bäume mit mehreren Ebenen, Credits, Branding und Panel-Berechtigungen. Wachsen Sie durch Partner, nicht durch Personal."
+      "multilang": {
+        "title": "12 Gästesprachen",
+        "text": "Die Oberfläche folgt automatisch der Sprache jedes Gastes. Kein Suchen in Einstellungen, keine Sprachbarrieren."
+      },
+      "cloud": {
+        "title": "Cloud-Management",
+        "text": "Verwalten Sie Häuser, Zimmer, Inhalte und Einstellungen über ein Dashboard. Änderungen an 500 Zimmer rauszusenden ist so einfach wie an fünf."
       },
       "analytics": {
-        "title": "Echtzeit-Analysen",
-        "text": "Churn-Prognosen, Kanal-Heatmaps, QoS-Dashboards und exportierbare Berichte, die sagen, was Sie als Nächstes reparieren."
-      },
-      "clients": {
-        "title": "Apps & Set-Top-Boxen",
-        "text": "White-Label-Apps für Android, iOS, Smart TV und alle gängigen STB-Chipsätze — eine Codebasis, native Performance."
-      },
-      "api": {
-        "title": "Offene REST-API",
-        "text": "Automatisieren Sie alles. 300+ dokumentierte Endpunkte, Webhooks und SDKs für PHP-, Go- und Python-Integratoren."
-      },
-      "security": {
-        "title": "Sicherheit zuerst",
-        "text": "Ende-zu-Ende-Verschlüsselung, SSO, Audit-Trails und Mandantentrennung. Regelmäßige Penetrationstests durch Dritte."
+        "title": "Gäste-Analysen",
+        "text": "Sehen Sie, was Gäste schauen, bestellen und anklicken — datenschutzkonforme Einblicke, die Service und Menüs formen."
       }
     }
   },
   "solutions": {
-    "title": "Lösungen für jeden Anbieter",
-    "subtitle": "Eine Plattform, zugeschnitten auf Ihre Branche. Wählen Sie Ihr Szenario und sehen Sie, wie StreamHive passt.",
+    "title": "Ein TV-Erlebnis für jede Unterkunft",
+    "subtitle": "Eine Plattform, abgestimmt auf Ihre Gäste.",
     "list": {
-      "hotels": {
-        "title": "Hotels & Resorts",
-        "short": "Zimmer-Unterhaltung ohne Personalaufwand und mit gebrandeten Begrüßungsbildschirmen.",
-        "long": "Geben Sie jedem Gast ein Fünf-Sterne-TV-Erlebnis. StreamHive liefert Live-TV, Hotel-Infokanäle und Casting an Zimmerschirme — alles von einem Panel aus von Ihrem bestehenden Personal verwaltet.",
+      "groups": {
+        "title": "Hotelgruppen & Ketten",
+        "short": "Multi-Property-Kontrolle mit eingebauten Markenstandards.",
+        "long": "Rollen Sie ein markeneinheitliches TV-Erlebnis über alle Häuser Ihres Portfolios aus. Zentrale Markenvorlagen, lokale Inhaltsfreiheit und Analysen pro Haus — alles aus einer Cloud-Konsole.",
         "bullets": [
-          "Gebrandete Startseite mit Gästename und Checkout-Infos",
-          "Infokanäle für Spa, Restaurant und Veranstaltungen",
-          "Keine Set-Top-Boxen nötig — läuft auf Gäste-TVs und Smartphones",
-          "Automatische tägliche Bereitstellung aus Ihrem PMS-System"
+          "Zentrale Markenvorlagen mit Überschreibungen pro Haus",
+          "Gruppenweite Inhalts-Updates mit einem Klick",
+          "Portfolio-Analysen und Benchmarks",
+          "SSO und rollenbasierte Zugänge für Regionalteams"
         ]
       },
-      "airlines": {
-        "title": "Fluggesellschaften",
-        "short": "An-Bord-Streaming über Kabinen-WLAN mit Offline-Inhalts-Caches.",
-        "long": "Bringen Sie Premium-Unterhaltung an Bord. StreamHive cache kuratierte Bibliotheken auf dem Flugzeug und dient sie über Kabinen-WLAN an Passagiergeräte aus — mit Flugberichten nach der Landung.",
+      "independent": {
+        "title": "Individualhotels",
+        "short": "Gästeerlebnis auf Ketteniveau ohne Kettenbudget.",
+        "long": "Alles, was eine globale Kette bekommt — Casting, Streaming, digitales Dining — dimensioniert und bepreist für Individualhotels. In einem Tag eingerichtet, ohne IT-Abteilung betrieben.",
         "bullets": [
-          "Bodensynchronisierte Inhaltsrotation pro Route und Saison",
-          "Passagiergeräte als Bildschirme — keine Rückenlehnen-Hardware",
-          "Mehrsprachige UI passend zu Ihren Kabinensprachen",
-          "Nutzungsanalysen nach jeder Landung geliefert"
+          "Einrichtung in einem Tag auf Ihren vorhandenen Smart-TVs",
+          "Keine IT-Abteilung nötig — Verwaltung aus jedem Browser",
+          "Nur für die Zimmer zahlen, die Sie haben",
+          "Ihre Marke, Ihre Inhalte, Ihre Regeln"
         ]
       },
-      "hospitals": {
-        "title": "Kliniken & Arztpraxen",
-        "short": "Patienten-Unterhaltung und Infotainment, sicher und privat geliefert.",
-        "long": "Halten Sie Patienten komfortabel und informiert. StreamHive liefert Unterhaltung an Bettschirme zusammen mit Klinik-Infokanälen, Schulungsinhalten und Entspannungsbibliotheken.",
+      "resorts": {
+        "title": "Resorts",
+        "short": "Bildschirmzeit in Pool-, Spa- und Aktivitätsbuchungen verwandeln.",
+        "long": "Resort-Gäste planen ihren Tag vom Zimmer aus. Castella bringt Aktivitäten, Spa-Menüs und Restaurantbuchungen auf den Fernseher — mit Bildsprache, die das Erlebnis verkauft.",
         "bullets": [
-          "Entspannungs-, Meditations- und kindersichere Pakete",
-          "Klinik-Infokanäle für Besuchszeiten und Services",
-          "DSGVO-konforme, pro Station isolierte Konfiguration",
-          "Läuft über bestehende Bettschirme und WLAN"
+          "Aktivitäts- und Ausflugsbuchungen mit Live-Verfügbarkeit",
+          "Spa- und Restaurantmenüs mit hochwertigen Bildern",
+          "Mehrsprachige Inhalte für internationale Gäste",
+          "Kindersicherer Modus mit kuratierten Inhalten"
         ]
       },
-      "isps": {
-        "title": "ISP-TV-Plattformen",
-        "short": "Carrier-Grade-IPTV für Glasfaser- und Funk-ISP, vollständig gebrandbar.",
-        "long": "Fügen Sie Ihrer Triple Play Fernsehen hinzu. StreamHive bietet ISPs eine Carrier-Grade-IPTV-Plattform mit Multicast-Auslieferung, Abonnenten-Bereitstellung aus BRAS/AAA-Systemen und vollständigem White-Labeling.",
+      "boutique": {
+        "title": "Boutique- & Designhotels",
+        "short": "Eine Oberfläche, durchdacht wie Ihr Interieur.",
+        "long": "Ihre Designsprache verdient mehr als ein Standard-TV-Menü. Castellas Oberfläche ist komplett markenfähig — Typografie, Farben, Layouts — damit der sichtbarste Bildschirm des Zimmers Ihrer Vision entspricht.",
         "bullets": [
-          "Multicast- und Unicast-Auslieferung über Ihr eigenes Netz",
-          "Bereitstellungs-Hooks für RADIUS, DHCP Option 60 und TR-069",
-          "Reseller-Panel für Ihr Händlernetz",
-          "SLA-gestützte 99,99%-Verfügbarkeitsarchitektur"
-        ]
-      },
-      "cruise-ships": {
-        "title": "Kreuzfahrtschiffe",
-        "short": "Unterhaltung auf See mit satellitenfreundlicher Bandbreitensteuerung.",
-        "long": "Begeistern Sie Passagiere über den Ozean hinweg. StreamHive liefert bandbreitenbewusste Auslieferungsmodi, Satelliten-Inhaltssync bei Hafenanläufen und deckenweise Senderlinien für Ihr Schiff.",
-        "bullets": [
-          "Offline-first-Bibliotheken, bei jedem Hafen synchronisiert",
-          "Bandbreitensteuerung für Satellitenverbindungen",
-          "Senderlinien pro Deck und Passagierklasse",
-          "Kinderbereiche mit sicheren, kuratierten Paketen"
-        ]
-      },
-      "buses": {
-        "title": "Busse & Reisebusse",
-        "short": "Bord-Unterhaltung über Fahrzeug-WLAN mit Fahrer-Steuerung.",
-        "long": "Machen Sie Reisezeit zur Qualitätszeit. Passagiere streamen Filme, Musik und Live-Radio auf ihre eigenen Geräte über das Bus-WLAN, während der Fahrer alles per Tastendruck vom Dashboard steuert.",
-        "bullets": [
-          "Fahrer-Dashboard mit Ein-Tipp-Steuerung",
-          "Passagiergeräte als Bildschirme über Fahrzeug-WLAN",
-          "Routenbasierte Inhalte und regionale Lizenzen",
-          "Flottenweite Berichte für Betreiber"
+          "Voll anpassbare Oberfläche passend zu Ihrem Design",
+          "Kuratierte lokale Guides und Stadtinhalte",
+          "Vinyl-Modus für Atmosphäre-Kanäle",
+          "Begrüßungsablauf, der persönlich wirkt, nicht wie aus der Schablone"
         ]
       },
       "apartments": {
-        "title": "Wohnanlagen & Immobilien",
-        "short": "Hausweites Fernsehen als Service — ein Vorteil, der Mietverträge abschließt.",
-        "long": "Bieten Sie Bewohnern etwas Besonderes. StreamHive betreibt hausweites Fernsehen über das bestehende Netz mit Abrechnung pro Wohnung und einem gebrandeten Portal, das Ihr Hausverwaltungsteam steuert.",
+        "title": "Apartments & Aparthotels",
+        "short": "Self-Check-in mit Hausordnung und Codes vom Fernseher.",
+        "long": "Für Häuser ohne 24-Stunden-Rezeption wird der Fernseher zum Concierge: Tür-Codes, WLAN, Hausordnung, Check-out-Anweisungen und lokale Empfehlungen erscheinen, sobald der Gast eintritt.",
         "bullets": [
-          "Inklusive-TV-Pakete, die mehr Abschlüsse bringen",
-          "Berechtigungen pro Wohnung mit optionalen Upgrades",
-          "Hausinfo-Kanal für die Verwaltung",
-          "Keine Hardware in Gemeinschaftsbereichen"
+          "Automatische gastspezifische Zugangscodes auf dem Bildschirm",
+          "Anleitungen für Self-Check-in und Check-out",
+          "Digitale Hausordnung und Haftungsausschlüsse",
+          "Partner-Upsells: Parken, Reinigung, Late Check-out"
         ]
       },
-      "news-agencies": {
-        "title": "Nachrichtenagenturen & Rundfunk",
-        "short": "Interne Monitoring-Wände und Verteilung an Partner-Signale.",
-        "long": "Beobachten und verteilen Sie die Welt. StreamHive nimmt hunderte Satelliten- und IP-Feeds auf, gibt Nachrichtenredaktionen Kanalwände mit sofortigem Umschalten und verteilt gebrandete Streams an Partner.",
+      "wellness": {
+        "title": "Wellness- & Spahotels",
+        "short": "Wellness-Reisen im Zimmer: Meditation, Yoga und Spa-Buchungen.",
+        "long": "Verlängern Sie Ihre Wellness-Philosophie bis ins Zimmer. Geführte Meditation, Sonnenaufgangs-Yoga und Schlaf-Soundscapes auf dem großen Bildschirm — Spa-Behandlungen in zwei Tipps buchbar.",
         "bullets": [
-          "Monitoring-Wände mit Umschalten in Sekundenbruchteilen",
-          "Satelliten- und IP-Eingang mit Failover",
-          "Partnerversand mit Mandanten-Branding",
-          "Archiv mit durchsuchbaren Transkripten"
-        ]
-      },
-      "homes": {
-        "title": "Privatkunden",
-        "short": "Direct-to-Consumer-Fernsehen für OTT-Anbieter und Rechteinhaber.",
-        "long": "Starten Sie Ihren eigenen Streaming-TV-Dienst. StreamHive übernimmt Anmeldung, Zahlung, Apps und Support, damit Sie sich auf Inhalte konzentrieren können, die Ihr Publikum liebt.",
-        "bullets": [
-          "Self-Service-Anmeldung mit Sofortaktivierung",
-          "Monats-, Jahres- und Prepaid-Abonnements",
-          "Familienprofile und Kindersicherung",
-          "Apps für TV, Mobil, Web und STB ab Tag eins"
+          "Videobibliothek für geführte Meditation und Yoga",
+          "Schlaf-Soundscapes und Lichtweckprogramme",
+          "Spa-Buchungen mit Verrechnung aufs Zimmer",
+          "Gesunde Ernährungsfilter im Zimmerservice-Menü"
         ]
       }
     }
   },
-  "pricing": {
-    "title": "Einfache, skalierbare Preise",
-    "subtitle": "Klein starten, ohne Limits wachsen. Alle Pläne enthalten jedes Modul — keine versteckten Stufen.",
-    "period": "/Monat",
-    "custom": "Individuell",
-    "customNote": "Mengenpreise, SLAs und On-Premise-Optionen",
-    "popular": "Am beliebtesten",
-    "plans": {
-      "starter": {
-        "name": "Starter",
-        "price": "€99",
-        "desc": "Für neue Anbieter, die ihren Markt testen",
-        "features": [
-          "Bis zu 1.000 Abonnenten",
-          "50 Live-Kanäle + Basis-VOD",
-          "1 Reseller-Panel",
-          "White-Label-Apps (1 Plattform)",
-          "E-Mail-Support, 24h Antwortzeit"
-        ]
-      },
-      "growth": {
-        "name": "Growth",
-        "price": "€499",
-        "desc": "Für etablierte Anbieter im schnellen Wachstum",
-        "features": [
-          "Bis zu 25.000 Abonnenten",
-          "Unbegrenzte Kanäle & VOD-Bibliothek",
-          "10 Reseller-Panels",
-          "White-Label-Apps (alle Plattformen)",
-          "Cloud-Transkodierung inklusive",
-          "Priority-Support, 4h Antwortzeit"
-        ]
-      },
-      "enterprise": {
-        "name": "Enterprise",
-        "price": "",
-        "desc": "Für ISPs, Telcos und nationale Plattformen",
-        "features": [
-          "Unbegrenzte Abonnenten & Kanäle",
-          "Unbegrenzter Reseller-Baum",
-          "On-Premise oder Private Cloud",
-          "DRM- & Antipiraterie-Suite",
-          "Persönlicher Account Manager",
-          "99,99% SLA mit Vertragsstrafen"
-        ]
-      }
-    },
-    "faqTitle": "Häufige Fragen",
-    "faq": {
-      "q1": "Kann ich von einer anderen Plattform migrieren?",
-      "a1": "Ja. Unser Migrationsteam importiert Abonnenten, Senderlinien, VOD-Bibliotheken und EPG-Daten von allen großen IPTV-Panels — typischerweise innerhalb einer Geschäftswoche und ohne Aufpreis für Growth und darüber.",
-      "q2": "Berechnen Sie pro Kanal oder pro Abonnent?",
-      "a2": "Weder noch. Die Pläne richten sich nach aktiven Abonnenten, die Kanalzahl ist bei Growth und Enterprise unbegrenzt. Sie zahlen niemals eine Kanal-Steuer für wachsende Senderlinien.",
-      "q3": "Ist die Plattform wirklich in sechs Sprachen verfügbar?",
-      "a3": "Ja — Englisch, Deutsch, Türkisch, Chinesisch, Spanisch und Russisch, sowohl im Admin-Panel als auch in den Endnutzer-Apps. Weitere Sprachen auf Anfrage.",
-      "q4": "Was passiert, wenn ich meinen Plan überschreite?",
-      "a4": "Upgrades gelten sofort und pro rata. Viele Anbieter starten mit Starter und wechseln im ersten Quartal zu Growth — Daten, Senderlinien und Apps bleiben unangetastet."
-    }
+  "integrations": {
+    "title": "Integrationen",
+    "subtitle": "Castella verbindet sich mit den Systemen, die Sie bereits betreiben — zertifiziert, gepflegt und supported.",
+    "pmsTitle": "Property-Management-Systeme",
+    "pmsText": "Bidirektionale Synchronisierung mit den führenden PMS-Plattformen: Gastprofile, Zimmerstatus, Check-out-Zeiten und Folio-Buchungen fließen automatisch.",
+    "locksTitle": "Türschlösser & Zugang",
+    "locksText": "Mobile Schlüssel und PIN-Codes beim Check-in generiert — aufs Gästetelefon gesendet und auf dem TV-Begrüßungsbildschirm gespiegelt.",
+    "paymentsTitle": "Zahlungen & Folio",
+    "paymentsText": "Zimmerbelastungen, geteilte Folios und Direktzahlungen für Upsells — automatisch mit Ihrem PMS abgeglichen, ohne manuelle Erfassung.",
+    "hardwareTitle": "TVs & Hardware",
+    "hardwareText": "Zertifiziert für Samsung-, LG- und Philips-Smart-TVs. Funktioniert mit Ihrem bestehenden Headend oder unserem Cloud-TV-Empfang.",
+    "ecosystem": "Plus 60+ weitere Integrationen für Gastronomie, Spa, Feedback und Kundenbindungsprogramme."
   },
-  "docs": {
-    "title": "Dokumentation",
-    "subtitle": "Alles, was Sie zum Betreiben, Integrieren und Erweitern von StreamHive brauchen.",
-    "modulesTitle": "Plattform-Module",
-    "readDoc": "Dokumentation lesen",
-    "modules": {
-      "lines": {
-        "title": "Linienverwaltung",
-        "short": "Erstellen, überwachen und beheben Sie jede Abonnenten-Linie.",
-        "long": "Das Linien-Modul ist der tägliche Arbeitsplatz von Anbietern. Es bietet sofortige Suche über Millionen Linien, Massenaktionen für häufige Aufgaben und Diagnosen pro Linie mit Verbindungsqualität, Geräteverlauf und Stream-Nutzung.",
-        "bullets": [
-          "Sofortige Suche über Millionen Linien",
-          "Massenweise aktivieren, deaktivieren, verlängern und verschieben",
-          "Diagnosen und Verbindungsprotokolle pro Linie",
-          "Automatische Ablauf- und Kulanzfrist-Policies"
-        ]
-      },
-      "vod": {
-        "title": "VOD & Serien",
-        "short": "Bibliotheken, Kategorien, Artwork und Mietlogik.",
-        "long": "Einmal hochladen, überall veröffentlichen. Das VOD-Modul nimmt Quelldateien auf, startet die Transkodierungs-Stufen, holt Artwork und Metadaten und veröffentlicht in Kategorien und Serien — mit Mietfenstern und Preisen, wenn Sie Inhalte verkaufen.",
-        "bullets": [
-          "Automatische Transkodierungs-Stufen bis 4K",
-          "TMDB-Artwork und Metadaten automatisch laden",
-          "Mietfenster und Preis pro Titel",
-          "Import aus FTP, S3 und RSS-Feeds"
-        ]
-      },
-      "epg": {
-        "title": "EPG & Metadaten",
-        "short": "Mehrsprachige Programmzeitschriften und Catch-up-Archive.",
-        "long": "Das EPG-Modul mappt XMLTV- und Gracenote-Feeds auf Ihre Senderlinien, vereinheitlicht Genres über Anbieter und veröffentlicht eine 14-Tage-Programmzeitschrift in jeder unterstützten Sprache. Catch-up-Archive entstehen automatisch aus dem Live-Stream.",
-        "bullets": [
-          "XMLTV- und Gracenote-Eingang",
-          "Programmzeitschrift pro Sprache",
-          "Automatisches Catch-up-Archiv pro Kanal",
-          "Eigene Events und Kanal-Korrekturen"
-        ]
-      },
-      "clients": {
-        "title": "Apps & Geräte",
-        "short": "Apps in Stores veröffentlichen und Geräteflotten verwalten.",
-        "long": "Liefern Sie native Apps ohne eigenes Mobile-Team. Das Clients-Modul baut White-Label-Apps aus Ihrem Branding, reicht sie in Ihrem Namen bei den Stores ein und verfolgt jedes installierte Gerät — mit Remote-Kill-Switch für gestohlene STBs.",
-        "bullets": [
-          "White-Label-Builds für Android, iOS und Smart TV",
-          "Store-Einreichung für Sie übernommen",
-          "Geräteregister mit Remote-Kill-Switch",
-          "STB-Firmware und App-Auto-Update"
-        ]
-      },
-      "billing": {
-        "title": "Abrechnung",
-        "short": "Pakete, Rechnungen, Zahlungen und Mahnwesen.",
-        "long": "Das Abrechnungsmodul macht aus Berechtigungen Umsatz. Definieren Sie Pakete mit Testphasen und Aktionen, kassieren Sie über Stripe oder lokale Methoden, stellen Sie Rechnungen in der Sprache des Kunden und automatisieren Sie das Mahnwesen für fehlgeschlagene Verlängerungen.",
-        "bullets": [
-          "Pakete mit Testphasen, Aktionen und Stapelung",
-          "Stripe, PayPal und 20+ lokale Methoden",
-          "Mehrsprachige Rechnungsstellung und Steuern",
-          "Mahnwesen mit intelligenten Wiederholungen"
-        ]
-      },
-      "resellers": {
-        "title": "Reseller",
-        "short": "Mehrstufige Partner-Panels mit Credits und Branding.",
-        "long": "Machen Sie Partner zur Vertriebsmacht. Jeder Reseller erhält ein isoliertes Panel mit Ihrem Branding, einem Credit-Guthaben und genau den Berechtigungen, die Sie vergeben — von voller Linienverwaltung bis zur Nur-Lese-Vertriebsansicht.",
-        "bullets": [
-          "Unbegrenzte Reseller-Tiefenebenen",
-          "Credit-basierte Abrechnung zwischen Ebenen",
-          "Branding und Sprache pro Panel",
-          "Granulare Berechtigungsmatrix"
-        ]
-      },
-      "security": {
-        "title": "Sicherheit",
-        "short": "DRM, Antipiraterie und Zugriffssteuerung.",
-        "long": "Sicherheit schützt Inhalte und Vertrauen. Das Security-Modul hüllt Streams in Widevine, PlayReady und FairPlay, fingert Traffic zur Leckerkennung und führt ein Audit-Trail jeder privilegierten Panel-Aktion.",
-        "bullets": [
-          "Widevine-, PlayReady- und FairPlay-DRM",
-          "Wasserzeichen und Leckquellen-Verfolgung",
-          "SSO, 2FA und IP-Richtlinien für Mitarbeiter",
-          "Vollständiges Audit-Trail der Panel-Aktionen"
-        ]
-      },
-      "operations": {
-        "title": "Betrieb",
-        "short": "Health, Alarme und Kapazitäts-Dashboards.",
-        "long": "Wissen Sie es vor Ihren Kunden. Operations bündelt QoS-Metriken von jedem Edge, sagt Kapazitätsdruck vor Spitzenzeiten voraus und benachrichtigt den richtigen Ingenieur im Bereitschaftsdienst mit Kontext.",
-        "bullets": [
-          "Echtzeit-QoS über alle Edges",
-          "Kapazitätsprognose vor Spitzen",
-          "Alarm-Routing zu Bereitschaftsplänen",
-          "Automatisch erstellte Post-Incident-Reports"
-        ]
-      }
-    }
+  "faq": {
+    "title": "Häufige Fragen",
+    "q1": "Müssen wir neue Fernseher kaufen?",
+    "a1": "Höchstwahrscheinlich nicht. Castella läuft nativ auf Samsung-, LG- und Philips-Smart-TVs der letzten Jahre. Bei älteren Bildschirmen ist ein kleiner Media-Player pro Zimmer eine erschwingliche Brücke.",
+    "q2": "Wie lange dauert die Einrichtung?",
+    "a2": "Ein einzelnes Haus geht typischerweise innerhalb eines Tages live. Rollouts über Gruppen dauern ein bis zwei Wochen pro Haus, begleitet von unserem Onboarding-Team.",
+    "q3": "Wie schützt Casting die Privatsphäre der Gäste?",
+    "a3": "Casting nutzt tokenbasiertes Pairing, das dem Fernseher niemals Kontodaten preisgibt. Sämtliche Pairing-Daten und Anmeldungen werden in der Sekunde des Check-outs aus dem Zimmer gelöscht.",
+    "q4": "Können wir eigene Inhalte und Marken einsetzen?",
+    "a4": "Vollständig. Kanäle, Menüs, Begrüßungsbildschirme und die Oberfläche selbst tragen Ihre Marke. Unser Content-Team erstellt und aktualisiert Material auf Wunsch auch für Sie."
   },
   "about": {
-    "title": "Wir halten das Fernsehen im Schwung",
-    "subtitle": "Ein Team von Streaming-Engineers mit der Mission, IPTV für jeden Anbieter einfach zu machen.",
+    "title": "Der meistgesehene Bildschirm des Zimmers — endlich beachtet",
+    "subtitle": "Wir sind ein Team von Hospitality-Technologen mit dem Ziel, den am meisten vernachlässigten Touchpoint des Aufenthalts zu reparieren.",
     "storyTitle": "Unsere Geschichte",
-    "story": "StreamHive entstand 2019, als drei Ingenieure, die Legacy-IPTV-Panels warteten, beschlossen, dass Anbieter Besseres verdienen. Heute bedient die Plattform Anbieter in 40 Ländern — von Antennen-Wohnnetzen bis zu nationalen Telcos.",
+    "story": "Castella entstand 2021 in einem Lissabonner Hotel, als zwei Ingenieure zusahen, wie ein Gast zehn Minuten lang gegen ein TV-Menü kämpfte und aufgab. Hotels investieren Millionen in Lobbys und Bettwaren — und lassen dann den größten Bildschirm des Zimmers im letzten Jahrzehnt zurück. Wir ändern das, Zimmer für Zimmer. Heute beliefert Castella Häuser in 34 Ländern.",
     "valuesTitle": "Woran wir glauben",
     "values": {
-      "operators": {
-        "title": "Anbieter zuerst",
-        "text": "Jede Funktion beginnt mit einem Problem eines Anbieters. Wenn sie Ihnen keine Zeit spart oder kein Geld bringt, bauen wir sie nicht."
+      "guests": {
+        "title": "Gäste zuerst",
+        "text": "Jede Designentscheidung beginnt mit einer Frage: Würde ein müder Reisender das um 23 Uhr nach einem verspäteten Flug lieben?"
+      },
+      "simple": {
+        "title": "Radikal einfach",
+        "text": "Für Gäste, für das Personal, für die IT. Wenn es eine Anleitung braucht, überarbeiten wir es, bis es keine braucht."
       },
       "honest": {
-        "title": "Ehrliche Preise",
-        "text": "Keine Kanal-Steuern, keine versteckten Stufen, keine Überraschungsrechnungen. Der Preis, den Sie sehen, ist der Preis, den Sie zahlen."
-      },
-      "openness": {
-        "title": "Standardmäßig offen",
-        "text": "Offene APIs, exportierbare Daten und kein Lock-in. Gehen sollte so leicht sein wie Bleiben — obwohl fast niemand geht."
+        "title": "Ehrliches Geschäft",
+        "text": "Klare Preise pro Zimmer, keine Lock-in-Verträge, Ihre Daten jederzeit exportierbar. Wir halten Kunden, indem wir gut sind — nicht indem wir kleben."
       }
     }
   },
   "contact": {
-    "title": "Sprechen Sie mit unserem Team",
-    "subtitle": "Erzählen Sie uns von Ihrem Projekt — wir antworten innerhalb eines Werktags.",
+    "title": "Sehen Sie Castella in Ihren Zimmern",
+    "subtitle": "Eine 30-minütige Demo mit Ihrem Haus im Blick — ohne Verpflichtung, ohne Folien, nur das Produkt.",
     "infoTitle": "Kontaktdaten",
     "email": "E-Mail schreiben",
     "phone": "Anrufen",
     "hq": "Zentrale",
-    "formTitle": "Nachricht senden",
+    "formTitle": "Demo anfragen",
     "name": "Ihr Name",
     "emailField": "E-Mail-Adresse",
-    "company": "Unternehmen",
+    "company": "Haus / Unternehmen",
+    "rooms": "Anzahl Zimmer",
     "topic": "Thema",
     "topics": {
-      "demo": "Demo anfragen",
-      "pricing": "Preisfrage",
-      "migration": "Migrationshilfe",
+      "demo": "Demo buchen",
+      "integration": "Integrationsfrage",
       "partnership": "Partnerschaft",
       "other": "Sonstiges"
     },
     "message": "Nachricht",
-    "send": "Nachricht senden",
-    "success": "Danke! Ihre Nachricht wurde gesendet — wir melden uns in Kürze."
-  },
-  "checkout": {
-    "title": "Kasse",
-    "subtitle": "Nur noch ein Schritt bis zum Start Ihrer TV-Plattform.",
-    "summary": "Bestellübersicht",
-    "period": "monatlich abgerechnet",
-    "pay": "Jetzt sicher bezahlen",
-    "note": "Zahlungen werden von Stripe verarbeitet. Sie können Ihren Plan jederzeit im Abrechnungspanel kündigen oder wechseln."
+    "send": "Anfrage senden",
+    "sending": "Wird gesendet…",
+    "success": "Danke! Wir melden uns innerhalb eines Werktags, um Ihre Demo zu terminieren.",
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt."
   },
   "cta": {
-    "title": "Bereit, Ihre TV-Plattform zu starten?",
-    "text": "Schließen Sie sich hunderten Anbietern an, die Fernsehen mit StreamHive ausliefern. Eine persönliche Demo dauert 30 Minuten — ohne Verpflichtung.",
-    "contact": "Demo anfragen",
-    "pricing": "Preise ansehen"
+    "title": "Bereit, Ihre Gästezimmer aufzurüsten?",
+    "text": "Schließen Sie sich Hotels in 34 Ländern an, die Castella bereits einsetzen. Die Demo dauert 30 Minuten — Ihre Gäste werden den Unterschied jahrelang bemerken.",
+    "contact": "Demo buchen",
+    "explore": "Funktionen entdecken"
   },
   "footer": {
-    "tagline": "Die mehrsprachige IPTV-Managementplattform für Anbieter, die es ernst meinen.",
+    "tagline": "Die Hotelfernseh-Plattform, die Zimmerbildschirme in Gästeerlebnisse verwandelt.",
     "product": "Produkt",
     "company": "Unternehmen",
     "language": "Sprache",
@@ -428,19 +259,19 @@
     "sections": {
       "intro": {
         "h": "1. Annahme der Bedingungen",
-        "p": "Durch den Zugriff auf oder die Nutzung der StreamHive-Plattform erklären Sie sich mit diesen Nutzungsbedingungen und allen anwendbaren Gesetzen einverstanden. Wenn Sie irgendeinem Teil der Bedingungen nicht zustimmen, dürfen Sie den Dienst nicht nutzen."
+        "p": "Durch den Zugriff auf oder die Nutzung der Castella-Plattform erklären Sie sich mit diesen Nutzungsbedingungen und allen anwendbaren Gesetzen einverstanden. Wenn Sie irgendeinem Teil nicht zustimmen, dürfen Sie den Dienst nicht nutzen."
       },
       "service": {
         "h": "2. Beschreibung des Dienstes",
-        "p": "StreamHive bietet IPTV/OTT-Content-Management-Software im Abonnement. Funktionen und Kapazität hängen vom gekauften Plan ab. Wir können den Dienst kontinuierlich verbessern oder anpassen, ohne vorherige Ankündigung."
+        "p": "Castella bietet eine cloudbasierte Hotelfernseh-Plattform mit Gästeanwendungen und Verwaltungswerkzeugen, die nach Vereinbarung pro Haus geliefert wird. Der Funktionsumfang richtet sich nach dem vereinbarten Rahmen."
       },
       "accounts": {
-        "h": "3. Verantwortung der Anbieter",
-        "p": "Anbieter sind verantwortlich für die Rechtmäßigkeit verbreiteter Inhalte in ihrem Gebiet, für die Aktivitäten ihrer Abonnenten und für die Sicherheit ihrer Zugangsdaten. Das Teilen von Panel-Zugängen ist untersagt."
+        "h": "3. Verantwortung der Häuser",
+        "p": "Häuser sind verantwortlich für die Rechtmäßigkeit verbreiteter Inhalte in ihrem Gebiet, für Gästedaten im Rahmen ihrer eigenen Datenschutzhinweise und für die Sicherheit der Mitarbeiterzugänge."
       },
       "billing": {
         "h": "4. Abrechnung und Kündigung",
-        "p": "Abonnements verlängern sich automatisch pro Periode bis zur Kündigung. Kündigungen wirken zum Ende des bezahlten Zeitraums. Überfällige Konten kommen in eine Kulanzfrist, danach wird der Dienst ausgesetzt."
+        "p": "Abonnements verlängern sich automatisch pro Periode bis zur Kündigung. Kündigungen wirken zum Ende des bezahlten Zeitraums. Keine langfristige Bindung."
       }
     }
   },
@@ -450,22 +281,22 @@
     "sections": {
       "what": {
         "h": "1. Was sind Cookies",
-        "p": "Cookies sind kleine Textdateien auf Ihrem Gerät. Wir nutzen sie, um Ihre Sprach- und Darstellungseinstellungen zu merken und aggregierten Traffic auf unserer Website zu verstehen."
+        "p": "Cookies sind kleine Textdateien auf Ihrem Gerät. Wir nutzen sie, um Ihre Sprach- und Darstellungseinstellungen zu merken und aggregierten Traffic zu verstehen."
       },
       "which": {
         "h": "2. Cookies, die wir nutzen",
-        "p": "sh_lang merkt Ihre gewählte Sprache. sh_mode und sh_accent merken Ihre Hell-/Dunkel- und Farb-Einstellungen. Alle sind First-Party, optional und laufen innerhalb eines Jahres ab."
+        "p": "sh_lang merkt Ihre Sprache. sh_mode und sh_accent merken Hell-/Dunkel- und Farb-Einstellungen. Alle sind First-Party, optional und laufen innerhalb eines Jahres ab."
       },
       "control": {
         "h": "3. Cookies verwalten",
-        "p": "Sie können diese Cookies jederzeit über die Browsereinstellungen löschen. Dadurch werden Sprach- und Darstellungseinstellungen auf Standardwerte zurückgesetzt, ohne die Website-Funktion zu beeinträchtigen."
+        "p": "Sie können diese Cookies jederzeit über die Browsereinstellungen löschen. Sprache und Darstellung kehren zu den Standardwerten zurück, ohne die Website-Funktion zu beeinträchtigen."
       }
     }
   },
   "error": {
     "code": "404",
-    "title": "Dieser Kanal existiert nicht",
-    "text": "Die gesuchte Seite wurde verschoben, umbenannt oder war nie on air. Versuchen Sie es mit der Startseite.",
+    "title": "Dieser Kanal ist offline",
+    "text": "Die gesuchte Seite wurde verschoben, umbenannt oder nie ausgestrahlt. Versuchen Sie die Startseite.",
     "back": "Zurück zur Startseite"
   }
 }

@@ -3,7 +3,7 @@ const { t } = useI18n()
 
 useSeoMeta({ title: t('about.title') })
 
-const valueKeys = ['operators', 'honest', 'openness']
+const valueKeys = ['guests', 'simple', 'honest']
 </script>
 
 <template>
@@ -33,7 +33,7 @@ const valueKeys = ['operators', 'honest', 'openness']
         </div>
         <div class="grid-3">
           <div v-for="key in valueKeys" :key="key" class="card">
-            <div class="card-icon"><AppIcon name="rocket" /></div>
+            <div class="card-icon"><AppIcon :name="key === 'guests' ? 'welcome' : key === 'simple' ? 'cast' : 'security'" /></div>
             <h3>{{ t(`about.values.${key}.title`) }}</h3>
             <p>{{ t(`about.values.${key}.text`) }}</p>
           </div>
