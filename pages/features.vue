@@ -14,6 +14,18 @@ const featureKeys = [
     <section class="page-hero">
       <h1>{{ t('features.title') }}</h1>
       <p>{{ t('features.subtitle') }}</p>
+      <div class="page-hero-visual">
+        <div class="media-frame">
+          <img
+            src="/images/banner-features.webp"
+            :alt="t('media.alt.features')"
+            width="2048"
+            height="1024"
+            loading="lazy"
+            decoding="async"
+          >
+        </div>
+      </div>
     </section>
 
     <section class="section" style="padding-top: 24px">

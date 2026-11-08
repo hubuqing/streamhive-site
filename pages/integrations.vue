@@ -16,6 +16,18 @@ const sections = [
     <section class="page-hero">
       <h1>{{ t('integrations.title') }}</h1>
       <p>{{ t('integrations.subtitle') }}</p>
+      <div class="page-hero-visual">
+        <div class="media-frame">
+          <img
+            src="/images/banner-integrations.webp"
+            :alt="t('media.alt.integrations')"
+            width="2048"
+            height="1024"
+            loading="lazy"
+            decoding="async"
+          >
+        </div>
+      </div>
     </section>
 
     <section class="section" style="padding-top: 24px">

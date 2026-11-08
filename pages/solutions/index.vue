@@ -20,6 +20,18 @@ const iconMap: Record<string, string> = {
     <section class="page-hero">
       <h1>{{ t('solutions.title') }}</h1>
       <p>{{ t('solutions.subtitle') }}</p>
+      <div class="page-hero-visual">
+        <div class="media-frame">
+          <img
+            src="/images/banner-solutions.webp"
+            :alt="t('media.alt.solutions')"
+            width="2048"
+            height="1024"
+            loading="lazy"
+            decoding="async"
+          >
+        </div>
+      </div>
     </section>
 
     <section class="section" style="padding-top: 24px">

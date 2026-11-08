@@ -106,11 +106,22 @@ const faqs = ['q1', 'q2', 'q3', 'q4']
         <div class="section-head">
           <h2>{{ t('home.gainsTitle') }}</h2>
         </div>
-        <div class="grid-3">
-          <div v-for="gain in gains" :key="gain.key" class="card">
-            <div class="card-icon"><AppIcon :name="gain.icon" /></div>
-            <h3 class="gain-value">{{ t(`home.gain${gain.key.charAt(0).toUpperCase() + gain.key.slice(1)}Title`) }}</h3>
-            <p>{{ t(`home.gain${gain.key.charAt(0).toUpperCase() + gain.key.slice(1)}Text`) }}</p>
+        <div class="showcase-grid">
+          <div v-for="gain in gains" :key="gain.key" class="card showcase-card">
+            <div class="media-frame">
+              <img
+                :src="`/images/${gain.image}.webp`"
+                :alt="t(`media.alt.${gain.alt}`)"
+                width="1536"
+                height="1152"
+                loading="lazy"
+                decoding="async"
+              >
+            </div>
+            <div class="showcase-body">
+              <h3 class="gain-value">{{ t(`home.gain${gain.key.charAt(0).toUpperCase() + gain.key.slice(1)}Title`) }}</h3>
+              <p>{{ t(`home.gain${gain.key.charAt(0).toUpperCase() + gain.key.slice(1)}Text`) }}</p>
+            </div>
           </div>
         </div>
       </div>

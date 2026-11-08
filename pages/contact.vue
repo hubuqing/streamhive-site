@@ -45,6 +45,18 @@ const submit = async () => {
     <section class="page-hero">
       <h1>{{ t('contact.title') }}</h1>
       <p>{{ t('contact.subtitle') }}</p>
+      <div class="page-hero-visual">
+        <div class="media-frame">
+          <img
+            src="/images/banner-contact.webp"
+            :alt="t('media.alt.contact')"
+            width="2048"
+            height="1024"
+            loading="lazy"
+            decoding="async"
+          >
+        </div>
+      </div>
     </section>
 
     <section class="section" style="padding-top: 24px">

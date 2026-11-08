@@ -300,5 +300,18 @@
     "title": "Dieser Kanal ist offline",
     "text": "Die gesuchte Seite wurde verschoben, umbenannt oder nie ausgestrahlt. Versuchen Sie die Startseite.",
     "back": "Zurück zur Startseite"
+  },
+  "media": {
+    "alt": {
+      "hero": "Castella-Begrüßungsbildschirm im Gästezimmer",
+      "upsell": "Gast bestellt Zimmerservice über das Zimmer-Fernsehgerät",
+      "satisfaction": "Gast überträgt einen Film auf das Zimmer-Fernsehgerät",
+      "staff": "Rezeptions-Dashboard mit Gästeanfragen",
+      "about": "Das Castella-Team und unsere Geschichte",
+      "contact": "Sprechen Sie mit dem Castella-Team über Ihr Haus",
+      "features": "Überblick über die Castella-Hotelfernseh-Funktionen",
+      "integrations": "Castella-Integrationen mit PMS, Schlössern, Zahlungen und TVs",
+      "solutions": "Castella-Lösungen für jede Art von Unterkunft"
+    }
   }
 }

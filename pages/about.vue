@@ -11,6 +11,18 @@ const valueKeys = ['guests', 'simple', 'honest']
     <section class="page-hero">
       <h1>{{ t('about.title') }}</h1>
       <p>{{ t('about.subtitle') }}</p>
+      <div class="page-hero-visual">
+        <div class="media-frame">
+          <img
+            src="/images/banner-about.webp"
+            :alt="t('media.alt.about')"
+            width="2048"
+            height="1024"
+            loading="lazy"
+            decoding="async"
+          >
+        </div>
+      </div>
     </section>
 
     <section class="section" style="padding-top: 24px">

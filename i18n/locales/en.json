@@ -300,5 +300,18 @@
     "title": "This channel is off air",
     "text": "The page you are looking for was moved, renamed or never broadcast. Try the homepage instead.",
     "back": "Back to home"
+  },
+  "media": {
+    "alt": {
+      "hero": "Castella hospitality TV platform welcome screen in a guest room",
+      "upsell": "Guest ordering room service from the room TV",
+      "satisfaction": "Guest casting a movie to the room TV",
+      "staff": "Front desk dashboard showing guest requests",
+      "about": "The Castella team and product story",
+      "contact": "Talk to the Castella team about your property",
+      "features": "Overview of the Castella hospitality TV features",
+      "integrations": "Castella integrations with PMS, locks, payments and TVs",
+      "solutions": "Castella solutions for every kind of property"
+    }
   }
 }

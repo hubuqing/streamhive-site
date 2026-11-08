@@ -300,5 +300,18 @@
     "title": "该频道已停播",
     "text": "你要找的页面可能已被移动、改名或从未播出。不妨回到首页看看。",
     "back": "返回首页"
+  },
+  "media": {
+    "alt": {
+      "hero": "客房中的 Castella 酒店电视平台欢迎屏",
+      "upsell": "客人通过客房电视点购客房餐饮",
+      "satisfaction": "客人向客房电视投屏电影",
+      "staff": "前台仪表盘显示宾客请求",
+      "about": "Castella 团队与产品故事",
+      "contact": "与 Castella 团队聊聊您的酒店",
+      "features": "Castella 酒店电视功能总览",
+      "integrations": "Castella 与 PMS、门锁、支付和电视的集成",
+      "solutions": "面向各类酒店的 Castella 解决方案"
+    }
   }
 }

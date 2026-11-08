@@ -300,5 +300,18 @@
     "title": "Bu kanal yayında değil",
     "text": "Aradığınız sayfa taşınmış, yeniden adlandırılmış veya hiç yayınlanmamış olabilir. Ana sayfayı deneyin.",
     "back": "Ana sayfaya dön"
+  },
+  "media": {
+    "alt": {
+      "hero": "Oda içinde Castella otel TV platformu karşılama ekranı",
+      "upsell": "Konuğun oda TV'sinden oda servisi siparişi",
+      "satisfaction": "Konuğun oda TV'sine film yayınlaması",
+      "staff": "Konuk taleplerini gösteren resepsiyon panosu",
+      "about": "Castella ekibi ve ürün hikâyesi",
+      "contact": "Tesisiniz için Castella ekibiyle görüşün",
+      "features": "Castella otel TV özelliklerine genel bakış",
+      "integrations": "Castella'nın PMS, kilitler, ödemeler ve TV entegrasyonları",
+      "solutions": "Her tür tesis için Castella çözümleri"
+    }
   }
 }

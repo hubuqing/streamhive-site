@@ -300,5 +300,18 @@
     "title": "Este canal está fuera del aire",
     "text": "La página que busca fue movida, renombrada o nunca se emitió. Pruebe con la página de inicio.",
     "back": "Volver al inicio"
+  },
+  "media": {
+    "alt": {
+      "hero": "Pantalla de bienvenida de la plataforma Castella en una habitación",
+      "upsell": "Huésped pidiendo room service desde el televisor de la habitación",
+      "satisfaction": "Huésped enviando una película al televisor de la habitación",
+      "staff": "Panel de recepción con solicitudes de huéspedes",
+      "about": "El equipo de Castella y nuestra historia",
+      "contact": "Hable con el equipo de Castella sobre su propiedad",
+      "features": "Panorama de las funciones de TV hotelera de Castella",
+      "integrations": "Integraciones de Castella con PMS, cerraduras, pagos y televisores",
+      "solutions": "Soluciones de Castella para cada tipo de alojamiento"
+    }
   }
 }
